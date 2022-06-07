@@ -1,0 +1,489 @@
+/* this is the new corporate style of the mpii */
+
+html, body {
+	font-size: 11pt;
+	margin: 0;
+	padding: 0;
+ 	color: rgb(60%,60%,60%);
+	background: #fff;
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+}
+
+h1 {
+	color: #036;
+	font: bold 100% Verdana, Arial, Helvetica, sans-serif;
+	padding: 1em 1em 0.3em 1em; 
+	margin: 0;
+	border-bottom: 3px solid rgb(67%,76%,84%);
+}
+
+h2 {
+	font: bold 90%/1em Verdana, Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding-top: 1em;
+	padding-left: 1em;
+	padding: 1em 1em 0.3em 1em; 
+	line-height: 1.5;
+}
+
+h3 {
+	font: bold 85%/1em Verdana, Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding-top: 1em;
+	padding: 1em 1em 0.3em 1em;
+	padding-bottom: 0;
+}
+h4 {
+	font: bold 80%/1em Verdana, Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 1em 1em 0.3em 1em; 
+}
+
+p {
+	line-height: 1.5;
+	padding: 0 1em 0 1em;
+	page-break-after: auto;
+}
+
+dl {
+	padding-top: 1em;
+	padding-left: 1em;
+	padding-bottom: 1em;
+}
+
+html hr {
+	color: rgb(67%,76%,84%);
+	border: 1px solid rgb(67%,76%,84%);
+	background-color: #fff;
+	height: 1px;
+	margin-left: 1em;
+}
+
+address {
+	padding: 0.5em 1em 0.5em 1em;
+	font-style: normal;
+	line-height: 1.5;
+}
+
+a:link {color: #036;}
+
+a:visited {
+	color: #669;
+/*	color: #036; */
+/*	color: #99c; */
+/*	color: rgb(67%,76%,84%);  */
+}
+
+a:hover {
+	color: #036;
+}
+
+#col2o3content p {
+	line-height: 1.5;
+	padding: 0 1em 0 1em;
+}
+
+#col2o3content ul li {
+	line-height: 1.5;
+	list-style: square;
+}
+
+#col2o3content h1 {
+	font: bold 100% Verdana, Arial, Helvetica, sans-serif;
+	border: 0;
+	padding-left: 1em;
+	color: #fff;
+	/* background: #fff; */
+	border-bottom: 3px solid rgb(67%,76%,84%);
+}
+
+/* css driven header navigation style */
+
+#head1o2 {
+	width: 100%;
+  	height: 0.5em;
+	margin: 0;
+	padding: 0 0 0 1em;
+	background: #036;
+	text-align: left;
+	color: #fff;
+}
+
+#head2o2 {
+	width: 100%;
+	height: 3.5em;
+	margin: 0;
+	padding: 0;
+	background: #fff;
+}
+
+#path {
+	float: right;
+	padding: 1em;
+	font-weight: bold;
+	background: #fff;
+	text-align: right;
+	color: rgb(54%,64%,70%);
+	clear: right;
+}
+
+#nav1 {
+	position: relative;
+	right: 0;
+	bottom: 0;
+	margin: 0;
+	padding: 2em 1em 0 0;
+	display: none;
+}
+
+#nav1 li {
+	color: #99c;
+	font-weight:bold;
+	list-style: none; 
+	margin-left: 0;
+	padding-left: 0;
+	white-space: nowrap;
+	/* border-left: 1px solid #99c; */
+	display: none;
+}
+
+#nav1 li a {
+	display: inline; 
+	padding: 0;
+	text-decoration: none; 
+	font-weight: bold;
+	color: #99c;
+/*	width: .1em; */
+}
+
+#nav1 li a:visited {
+	border-bottom: 0;
+}
+
+html>body #nav1 a {width: auto;}    /* fixes IE6 hack */
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+#nav1 a {float: none;}            /* End IE5-Mac hack */
+#nav1 li a:hover {color: #fff;}
+
+#nav2 {
+	position: relative;
+	right: 0;
+	bottom: 0;
+	margin: 0;
+	padding: 0;
+	padding-right: 1em;
+	text-align: right;
+}
+
+#nav2 li {
+	list-style: none; 
+	margin-left: 0;
+	padding-left: 0;
+	font-weight: bold;
+	color: rgb(54%,64%,70%);
+	white-space: nowrap;
+	display: inline;
+}
+
+#nav2 li a {
+	display: inline; 
+	padding: 0;
+	text-decoration: none; 
+	font-weight: bold;
+	color: rgb(54%,64%,70%);
+	border-bottom: 0;
+}
+
+html>body #nav2 a {width: auto;}    /* fixes IE6 hack */
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+#nav2 li a {float: none;}            /* End IE5-Mac hack */
+
+#nav2 li a:visited {text-decoration: none; border-bottom: 0;}
+#nav2 li a:hover {color: #036;}
+
+#headend {
+	clear: left;
+}
+
+#mpiilogo {
+	float:left;
+	margin-left: 0.5em;
+	margin-right: 0;
+	margin-bottom: 0;
+	border: 0;
+}
+
+#mpiidot {
+	position: relative;
+	float: left;
+	top: 0px;
+	width: 15px;
+	height: 1px;
+	/* position: relative; */
+	padding: 0;	
+	background: #99c;
+	z-index: 1;
+	margin-right: 202px;
+	display: none;
+}
+
+#mpiitext {
+	font: bold 11pt "Times New Roman", Times, serif;
+	color: #036;
+	padding: 0;
+	display: block;
+	float: right;
+	letter-spacing: 1px;
+	margin-top: 0.6em;
+}
+
+#quickjump {
+	text-align: right;
+ 	height: 1em;
+	margin: 0;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	padding-right: 1em;
+}
+
+#footer {
+	background: #fff;
+	font-size: 11px;
+	margin-top: 1em;
+	padding: 1em;
+	text-align: center;
+	border-top: 1px solid rgb(67%,76%,84%);
+	clear: both; 
+}
+
+#lastchange {
+	font-size: 10px;
+	margin-top: 10px;
+	padding-top: 10px;
+	text-align: center;
+	border-top: 1px solid rgb(67%,76%,84%);
+}
+
+form {
+	padding: 0;
+}
+
+optgroup {font-style: normal;}
+
+.button {
+    margin-top: 1px;
+	margin-left: 5px;
+    padding: 0;
+    border: 0;
+    background-color: White;
+    border: 1px solid rgb(67%,76%,84%); 
+}
+
+#Query {
+    margin-left: 1em;
+	margin-top: 1em;
+    padding-left: 1px;
+    background-color: White;
+    border: 1px solid rgb(67%,76%,84%); 
+	width: 14.5em;
+}
+
+.print.css p {
+      border: 1px;
+}
+
+#search {
+	display: none;
+	float: left;
+	clear: left;
+}
+
+/* css driven layout */
+
+#headerspacer {
+	color: #036;
+	font-size: 1px;
+	/* height: 1em; */
+	display: block;
+	clear: both;
+	height: 1px;
+}
+
+/* Set up NN4 values - purely to prevent vertical "looseness" */
+#headerspacer {
+	margin: 0px;
+	margin-top: -10px;
+	padding: 0px;
+}
+/* Set up default spacer values */
+#headerspacer {
+	/*/*/
+	margin: 0px;
+	padding: 8px;
+	/* */
+}
+
+#col2o3 {
+	/* position: absolute; */
+	left: 0;
+	width: 100%;
+	z-index: 3;
+	border:0;
+}
+
+#col2o3content {
+	margin: 1em 1em 1em 1em;
+	padding: 0;
+	color: #036;
+	background-color: #fff;
+	border: 0;
+}
+
+#col2o3content ul li {
+	line-height: 1.5;
+	list-style: square;
+}
+#col2o3content img {
+	float: left;
+	margin: 1em 1em 0.3em 1em;
+}
+
+#col1o3 {
+	position: absolute;
+	left: 1em;
+	width: 1%;
+	z-index: 4;
+	display: none;
+}
+
+#col1o3content {
+	margin-right: 0px;
+	padding: 0px;
+	color: #036;
+	background-color: #fff;
+	/* border-right: 1px solid rgb(67%,76%,84%); */
+	border-top: 1px solid rgb(67%,76%,84%);
+}
+
+#col3o3 {
+	float: left;
+	left: 71%;
+	width: 50%;
+}
+
+/* NN4 collapses the right column if the width is specified
+Other bowsers collapse if it isn't */
+
+#col3o3content {
+	/* margin-right: 20px; */
+	padding: 0px;
+	color: rgb(54%,64%,70%);
+	background-color: #fff;
+	border-bottom: 3px solid rgb(67%,76%,84%);
+}
+
+/* unset NN4 spacing values for footer */
+
+/* indentation for nested list items - everywhere */
+
+ul { 
+	margin: 0 0 0 2em;
+	padding: 0;
+}
+
+ul.linklist {
+	font-weight: bold;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+	color: #036;
+	list-style: none;
+}
+
+ul.linklist li {
+	line-height: 1.5;
+	border-bottom: 1px solid rgb(67%,76%,84%);
+	margin: 0;
+	list-style: none;
+	padding: 0 0 0 0.33em;
+}
+
+ul.linklist a {display: block; text-decoration: none;}
+ul.linklist a:link {text-decoration: none;}
+ul.linklist a:visited {text-decoration: none;}
+ul.linklist a:hover {background: rgb(80%,85%,90%);}
+
+ul.linklist li li {
+	border-bottom: 0;
+	border-top: 1px solid rgb(67%,76%,84%);
+	/* border-left: 1px solid rgb(67%,76%,84%); */
+	margin: 0;
+	list-style: none;
+	padding: 0 0 0 0.33em;
+}
+
+/* This fixes the IE6 extra gap! */
+ul.linklist li ul li a {
+	text-decoration: none; 
+	vertical-align: bottom; /* This fixes the IE5 Win gap! */
+	height: 100%;
+}
+
+.selected {
+	background: rgb(80%,85%,90%);
+}
+
+/* 2-column layout */
+
+#col1o2 {
+	display: none;
+	position: absolute;
+	left: 1em;
+	width: 1%;
+	z-index: 4;
+}
+
+#col1o2content {
+	margin-right: 0px;
+	padding: 0px;
+	color: #036;
+	background-color: #fff;
+	/* border-right: 1px solid rgb(67%,76%,84%); */
+	border: 0;
+}
+
+#col2o2 {
+	/* position: absolute; */
+	left: 0px;
+	width: 99%;
+	z-index: 3;
+	border:0;
+}
+
+#col2o2content {
+	margin: 0;
+	padding: 0;
+	color: #036;
+	background-color: #fff;
+	border: 0;
+}
+
+#col2o2content ul li {
+	line-height: 1.5;
+	list-style: square;
+}
+#col2o2content img {
+	float: left;
+	margin: 1em 1em 0.3em 1em;
+}
+
+#deco {
+	padding-left: 0.3em;
+	padding-top: 0em;
+	float:left;
+	clear:none;
+}
+
+#alphablock {
+	display: none;
+}
