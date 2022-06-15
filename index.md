@@ -235,28 +235,28 @@ My research lies at the intersection of **computer vision** and **machine learni
 <h4 style="margin:0 10px 0;">Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://britishmachinevisionassociation.github.io/bmvc"><autocolor>The British Machine Vision Conference (BMVC), 2022</autocolor></a>, Website Chair</li>
-  <li><a href="https://mmasia2020.org/"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia), 2020</autocolor></a>, Website Master</li>
+  <li><a href="https://britishmachinevisionassociation.github.io/bmvc"><autocolor>The British Machine Vision Conference (BMVC) 2022</autocolor></a>, Website Chair</li>
+  <li><a href="https://mmasia2020.org/"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia) 2020</autocolor></a>, Website Master</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Senior Program Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://ijcai-21.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI), 2021</autocolor></a></li>
+  <li><a href="https://ijcai-21.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) 2021</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2022.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021-2022</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE International Conference on Computer Vision (ICCV), 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV), 2022</autocolor></a></li>
-  <li><a href="https://neurips.cc/Conferences/2022"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS), 2020-2022</autocolor></a></li>
-  <li><a href="https://icml.cc/Conferences/2022"><autocolor>International Conference on Machine Learning (ICML), 2021-2022</autocolor></a></li>
-  <li><a href="https://iclr.cc/Conferences/2022"><autocolor>International Conference on Learning Representations (ICLR), 2022</autocolor></a></li>
-  <li><a href="https://aaai.org/Conferences/AAAI-22/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI), 2021-2022</autocolor></a></li>
-  <li><a href="https://ijcai-22.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI), 2021-2022</autocolor></a></li>
-  <li><a href="https://2022.acmmm.org/"><autocolor>ACM International Conference on Multimedia (MM), 2021-2022</autocolor></a></li>  
+  <li><a href="http://cvpr2022.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2022</autocolor></a></li>
+  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
+  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
+  <li><a href="https://neurips.cc/Conferences/2022"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2020-2022</autocolor></a></li>
+  <li><a href="https://icml.cc/Conferences/2022"><autocolor>International Conference on Machine Learning (ICML) 2021-2022</autocolor></a></li>
+  <li><a href="https://iclr.cc/Conferences/2022"><autocolor>International Conference on Learning Representations (ICLR) 2022</autocolor></a></li>
+  <li><a href="https://aaai.org/Conferences/AAAI-22/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2021-2022</autocolor></a></li>
+  <li><a href="https://ijcai-22.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) 2021-2022</autocolor></a></li>
+  <li><a href="https://2022.acmmm.org/"><autocolor>ACM International Conference on Multimedia (MM) 2021-2022</autocolor></a></li>  
   <!--
   <li><a href="https://mmasia2021.uqcloud.net/"><autocolor>ACM MM Asia 2020-2021</autocolor></a></li>
   <li><a href="http://www.acml-conf.org/2021/"><autocolor>ACML 2021</autocolor></a></li>  
