@@ -12,6 +12,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 ## News
 
+- **[Jun. 2022]** I will serve as a website chari at [BMVC 2022](https://britishmachinevisionassociation.github.io/bmvc).
 - **[May 2022]** I will serve as a student mentor at [CVPR 2022](http://cvpr2022.thecvf.com/).
 - **[Sept. 2021]** Our paper about [class-incremental learning](https://openreview.net/pdf?id=BfPzZSype5M) is accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
 - **[Mar. 2021]** Our paper about [class-incremental learning](https://arxiv.org/pdf/2010.05063.pdf) is accepted to [CVPR 2021](http://cvpr2021.thecvf.com/).
@@ -234,7 +235,8 @@ My research lies at the intersection of **computer vision** and **machine learni
 <h4 style="margin:0 10px 0;">Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://mmasia2020.org/"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia), 2020</autocolor></a></li>
+  <li><a href="https://britishmachinevisionassociation.github.io/bmvc"><autocolor>The British Machine Vision Conference (BMVC), 2022, Website Chair</autocolor></a></li>
+  <li><a href="https://mmasia2020.org/"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia), 2020, Website Master</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Senior Program Committee</h4>
