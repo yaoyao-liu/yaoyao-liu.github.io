@@ -235,8 +235,8 @@ My research lies at the intersection of **computer vision** and **machine learni
 <h4 style="margin:0 10px 0;">Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://britishmachinevisionassociation.github.io/bmvc"><autocolor>The British Machine Vision Conference (BMVC), 2022, Website Chair</autocolor></a></li>
-  <li><a href="https://mmasia2020.org/"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia), 2020, Website Master</autocolor></a></li>
+  <li><a href="https://britishmachinevisionassociation.github.io/bmvc"><autocolor>The British Machine Vision Conference (BMVC), 2022</autocolor></a>, Website Chair</li>
+  <li><a href="https://mmasia2020.org/"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia), 2020</autocolor></a>, Website Master</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Senior Program Committee</h4>
