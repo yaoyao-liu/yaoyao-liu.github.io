@@ -228,7 +228,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 ## Teaching
 
-- Teaching Assistant, [High-Level Computer Vision](https://www.mpi-inf.mpg.de/hlcv) at [Saarland University](https://www.uni-saarland.de/), SS2021 and SS2022
+- Teaching Assistant, [High-Level Computer Vision](https://www.mpi-inf.mpg.de/hlcv) at [Universität des Saarlandes](https://www.uni-saarland.de/), 2021 and 2022
 
 ## Services
 
