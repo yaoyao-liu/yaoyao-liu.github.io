@@ -8,7 +8,7 @@ I am currently a third-year Ph.D. candidate in Computer Science at [Max Planck I
 
 My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **few-shot learning**, **class-incremental learning**, **semi-supervised learning**, and **image generation**.
 
-<strong style="color:#e74d3c; font-weight:600">I am looking for a postdoctoral position in the US and EU. I'd appreciate a ping if you see a job I might fit.</strong>
+<strong style="color:#e74d3c; font-weight:600">I am looking for a postdoc or research scientist position in the US and EU. I'd appreciate a ping if you see a job I might fit.</strong>
 
 ## News
 
