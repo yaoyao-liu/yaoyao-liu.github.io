@@ -241,6 +241,12 @@ My research lies at the intersection of **computer vision** and **machine learni
   <li><a href="https://mmasia2020.org/"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia) 2020</autocolor></a>, Website Master</li>
 </ul>
 
+<h4 style="margin:0 10px 0;">Area Chair</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://aistats.org/aistats2023/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2023</autocolor></a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Senior Program Committee</h4>
 
 <ul style="margin:0 0 5px;">
