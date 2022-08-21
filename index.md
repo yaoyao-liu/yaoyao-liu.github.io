@@ -30,7 +30,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://images.yyliu.net/teaser/MTL_PAMI.png" class="teaser img-fluid z-depth-1">
+    <img src="https://img.yliu.de/teaser/MTL_PAMI.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">TPAMI</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -52,7 +52,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://images.yyliu.net/teaser/RMM.png" class="teaser img-fluid z-depth-1">
+    <img src="https://img.yliu.de/teaser/RMM.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NeurIPS</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -75,7 +75,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://images.yyliu.net/teaser/AANets.png" class="teaser img-fluid z-depth-1">
+    <img src="https://img.yliu.de/teaser/AANets.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -105,7 +105,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://images.yyliu.net/teaser/LTTL.png" class="teaser img-fluid z-depth-1">
+    <img src="https://img.yliu.de/teaser/LTTL.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVIU</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -127,7 +127,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://images.yyliu.net/teaser/E3BM.png" class="teaser img-fluid z-depth-1">
+    <img src="https://img.yliu.de/teaser/E3BM.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ECCV</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -151,7 +151,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://images.yyliu.net/teaser/mnemonics.png" class="teaser img-fluid z-depth-1">
+    <img src="https://img.yliu.de/teaser/mnemonics.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -175,7 +175,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://images.yyliu.net/teaser/LST.png" class="teaser img-fluid z-depth-1">
+    <img src="https://img.yliu.de/teaser/LST.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NeurIPS</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -198,7 +198,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://images.yyliu.net/teaser/MTL_CVPR.png" class="teaser img-fluid z-depth-1">
+    <img src="https://img.yliu.de/teaser/MTL_CVPR.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
