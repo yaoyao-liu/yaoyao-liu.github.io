@@ -131,7 +131,7 @@ My research lies at the intersection of **computer vision** and **machine learni
             <abbr class="badge">TNNLS</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9146375">Generating Face Images With Attributes for Free</a></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9146375">Generating Face Images with Attributes for Free</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Qianru Sun, Xiangnan He, An-An Liu, Yuting Su, Tat-Seng Chua</div>
       <div class="periodical"><em>IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong>, Volume 32, Number 6, 2021.</em>
       </div>
