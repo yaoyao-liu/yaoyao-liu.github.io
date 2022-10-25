@@ -152,8 +152,10 @@
       </div>
 
       <br>
-      <p hidden><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?&w=50&d=HV0rAUdAxpfEQLOsVs0FcJTR2rKVI5sEQUZIDM-N_HY"></script></p>
-   
+      {% if site.clustrmaps_link %}
+      <p hidden><script type="text/javascript" id="clstr_globe" src="{{ site.clustrmaps_link }}"></script></p>
+      {% endif %}
+      
       </section>
       <footer>
         <div style="font: 12px/1.2 Crimson Pro, serif">
