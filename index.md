@@ -14,7 +14,8 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 ## News
 
-- **[Aug. 2022]**  I will serve as an area chair of [AISTATS 2023](https://aistats.org/aistats2023/).
+- **[Oct. 2022]** I am recognized as a top reviewer for [NeurIPS 2022](https://neurips.cc/Conferences/2022/ProgramCommittee).
+- **[Aug. 2022]** I will serve as an area chair of [AISTATS 2023](https://aistats.org/aistats2023/).
 - **[June 2022]** I will serve as a student mentor of [the CVPR Academy](https://sites.google.com/view/cvpr-academy/) at [CVPR 2022](http://cvpr2022.thecvf.com/).
 - **[June 2022]** I will serve as a website chair of [BMVC 2022](https://bmvc2022.org/).
 - **[Sept. 2021]** Our paper about [class-incremental learning](https://openreview.net/pdf?id=BfPzZSype5M) is accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
