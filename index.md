@@ -17,12 +17,12 @@ My research lies at the intersection of **computer vision** and **machine learni
 - **[Oct. 2022]** I am recognized as a top reviewer for [NeurIPS 2022](https://neurips.cc/Conferences/2022/ProgramCommittee).
 - **[Aug. 2022]** I will serve as an area chair of [AISTATS 2023](https://aistats.org/aistats2023/).
 - **[June 2022]** I will serve as a student mentor of [the CVPR Academy](https://sites.google.com/view/cvpr-academy/) at [CVPR 2022](http://cvpr2022.thecvf.com/).
-- **[June 2022]** I will serve as a website chair of [BMVC 2022](https://bmvc2022.org/).
+- **[June 2022]** I will serve as a website chair of [BMVC 2022](https://bmvc2022.org/people/organisers/).
 - **[Sept. 2021]** Our paper about [class-incremental learning](https://openreview.net/pdf?id=BfPzZSype5M) is accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
 - **[Mar. 2021]** Our paper about [class-incremental learning](https://arxiv.org/pdf/2010.05063.pdf) is accepted to [CVPR 2021](http://cvpr2021.thecvf.com/).
 - **[July 2020]** Our paper about [few-shot learning](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58517-4_24.pdf) is accepted to [ECCV 2020](https://eccv2020.eu/).
 - **[Feb. 2020]** Our paper about [class-incremental learning](https://arxiv.org/pdf/2002.10211.pdf) is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
+- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://www.acmmmasia.org/2020/committee.html) conference in Singapore!
 - **[Sept. 2019]** Our paper about [few-shot learning](https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf) is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
 - **[Mar. 2019]** Our paper about [few-shot learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf) is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
 
@@ -262,8 +262,8 @@ My research lies at the intersection of **computer vision** and **machine learni
 <h4 style="margin:0 10px 0;">Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://bmvc2022.org/"><autocolor>The British Machine Vision Conference (BMVC) 2022</autocolor></a>, Website Chair</li>
-  <li><a href="https://mmasia2020.org/"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia) 2020</autocolor></a>, Website Master</li>
+  <li>Website Chair, <a href="https://bmvc2022.org/people/organisers/"><autocolor>The British Machine Vision Conference (BMVC) 2022</autocolor></a></li>
+  <li>Website Master, <a href="https://www.acmmmasia.org/2020/committee.html"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia) 2020</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Area Chair</h4>
