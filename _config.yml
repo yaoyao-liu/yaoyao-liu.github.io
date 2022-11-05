@@ -15,13 +15,13 @@ enable_mpi_logo: true
 
 # Links
 google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
-cv_link: https://files.yliu.de/Yaoyao_Liu_Resume.pdf
+cv_link: https://files.yliu.me/Yaoyao_Liu_Resume.pdf
 github_link: https://github.com/yaoyao-liu/
 linkedin: https://www.linkedin.com/in/liuyaoyao/
 twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
-avatar: https://img.yliu.de/avatar.jpg
+avatar: https://img.yliu.me/avatar.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
