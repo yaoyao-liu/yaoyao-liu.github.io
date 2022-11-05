@@ -35,6 +35,7 @@ clustrmaps_link: //clustrmaps.com/globe.js?d=71dq8HjqihJEgSiwaSZovuMn_4gJE3ed9kC
 imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu
 data_protection: https://data-protection.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu?lang=en
 
+# The following files will be removed from the generated website.
 exclude:
   - Gemfile
   - Gemfile.lock
