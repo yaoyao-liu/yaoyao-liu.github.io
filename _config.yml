@@ -26,12 +26,13 @@ favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Analytics
-# Please remove the following line about analytics services if you fork my project. 
+# Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my Google Analytics and ClustrMaps accounts.
 google_analytics: UA-111540567-4
 clustrmaps_link: //clustrmaps.com/globe.js?d=71dq8HjqihJEgSiwaSZovuMn_4gJE3ed9kCAdS0QjP0
 
 # General Data Protection Regulation (GDPR) information
+# If you don't need to add the GDPR information, you may remove the following lines
 imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu
 data_protection: https://data-protection.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu?lang=en
 
