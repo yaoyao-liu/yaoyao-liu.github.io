@@ -1,22 +1,36 @@
+# Basic Information 
 title: Yaoyao Liu
 position: Ph.D. Candidate
 affiliation: Max Planck Institute for Informatics
 affiliation_link: https://www.mpi-inf.mpg.de/
 email: yaoyao.liu (at) mpi-inf.mpg.de
+
+# Search Engine Optimization (SEO)
 keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
+canonical: https://www.mpi-inf.mpg.de/~yaliu/
+description: Yaoyao Liu is a Ph.D. candidate at Max Planck Institute for Informatics. His research lies in meta-learning, incremental learning, and image generation.
+
+# The option is used to enable the MPI Informatics template
 enable_mpi_logo: true
+
+# Links
 google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
 cv_link: https://files.yliu.de/Yaoyao_Liu_Resume.pdf
 github_link: https://github.com/yaoyao-liu/
 linkedin: https://www.linkedin.com/in/liuyaoyao/
 twitter: https://twitter.com/YaoyaoLiu1/
+
+# Images 
 avatar: https://img.yliu.de/avatar.jpg
-google_analytics: UA-111540567-4
-clustrmaps_link: //clustrmaps.com/globe.js?d=71dq8HjqihJEgSiwaSZovuMn_4gJE3ed9kCAdS0QjP0
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-description: Yaoyao Liu is a Ph.D. candidate at Max Planck Institute for Informatics. His research lies in meta-learning, incremental learning, and image generation.
-canonical: https://www.mpi-inf.mpg.de/~yaliu/
+
+# Analytics
+# Please remove the following line about analytics services if you fork my project. Otherwise, the analytics information of your website will be recorded to my Google Analytics and ClustrMaps accounts.
+google_analytics: UA-111540567-4
+clustrmaps_link: //clustrmaps.com/globe.js?d=71dq8HjqihJEgSiwaSZovuMn_4gJE3ed9kCAdS0QjP0
+
+# GDPR information
 imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu
 data_protection: https://data-protection.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu?lang=en
 
