@@ -33,7 +33,6 @@ For more details, please refer to <https://github.com/yaoyao-liu/minimal-light>.
 
 You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.
 
-```
 Install and run:
 
 ```bash
