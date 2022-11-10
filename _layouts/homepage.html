@@ -148,10 +148,12 @@
       </small> 
       -->
 
+      {% if site.footnote %}
       <div style="font: 12px/1.2 Crimson Pro, serif">
         <br>
-        <a href="https://github.com/yaoyao-liu/minimal-light" rel="noopener">Feel free to use my website's source code.</a>
+        <a href="{{ site.footnote_link }}" rel="noopener">{{ site.footnote }}</a>
       </div>
+      {% endif %}
 
       <br>
       {% if site.clustrmaps_link %}
