@@ -36,6 +36,10 @@ clustrmaps_link: //clustrmaps.com/globe.js?d=71dq8HjqihJEgSiwaSZovuMn_4gJE3ed9kC
 imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu
 data_protection: https://data-protection.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu?lang=en
 
+# Others
+footnote: Feel free to use my website's source code.
+footnote_link: https://github.com/yaoyao-liu/minimal-light
+
 # The following files will be removed from the generated website.
 exclude:
   - Gemfile
