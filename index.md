@@ -14,7 +14,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 ## News
 
-- **[Nov. 2022]** Our paper about class-incremental learning is accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
+- **[Nov. 2022]** Our paper about [class-incremental learning]() is accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
 - **[Oct. 2022]** I am recognized as a top reviewer for [NeurIPS 2022](https://neurips.cc/Conferences/2022/ProgramCommittee).
 - **[Aug. 2022]** I will serve as an area chair of [AISTATS 2023](https://aistats.org/aistats2023/).
 - **[June 2022]** I will serve as a student mentor of [the CVPR Academy](https://sites.google.com/view/cvpr-academy/) at [CVPR 2022](http://cvpr2022.thecvf.com/).
@@ -31,6 +31,27 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 <div class="publications">
 <ol class="bibliography">
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://img.yliu.me/teaser/OnlineHyperparameters.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">AAAI</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href=" ">Online Hyperparameter Optimization for Class-Incremental Learning</a></div>
+      <div class="author"><strong>Yaoyao Liu</strong>, Yingying Li, Bernt Schiele, Qianru Sun</div>
+      <div class="periodical"><em>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.</em>
+      </div>
+    <div class="links">
+      <a href="https://bib.yliu.me/AAAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
