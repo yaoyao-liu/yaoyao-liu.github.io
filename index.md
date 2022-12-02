@@ -39,11 +39,12 @@ My research lies at the intersection of **computer vision** and **machine learni
             <abbr class="badge">AAAI</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://class-il.mpi-inf.mpg.de/online-hyperparameter-optimization/">Online Hyperparameter Optimization for Class-Incremental Learning</a></div>
+      <div class="title"><a href="https://lyy.mpi-inf.mpg.de/preprints/Online_Hyperparameter_Optimization_for_Class_Incremental_Learning.pdf">Online Hyperparameter Optimization for Class-Incremental Learning</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Yingying Li, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.</em>
       </div>
     <div class="links">
+      <a href="https://lyy.mpi-inf.mpg.de/preprints/Online_Hyperparameter_Optimization_for_Class_Incremental_Learning.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://class-il.mpi-inf.mpg.de/online-hyperparameter-optimization/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://bib.yliu.me/AAAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
