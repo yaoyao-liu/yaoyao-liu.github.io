@@ -61,12 +61,13 @@ My research lies at the intersection of **computer vision** and **machine learni
             <abbr class="badge">TPAMI</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/document/9173698">Meta-Transfer Learning through Hard Tasks</a></div>
+      <div class="title"><a href="https://lyy.mpi-inf.mpg.de/preprints/Meta_Transfer_Learning_through_Hard_Tasks.pdf">Meta-Transfer Learning through Hard Tasks</a></div>
       <div class="author">Qianru Sun,* <strong>Yaoyao Liu</strong>,<strong>*</strong> Zhaozheng Chen, Tat-Seng Chua, Bernt Schiele (*=Equal contribution)</div>
       <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, Volume 44, Number 3, 2022.</em>
       </div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/document/9173698" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://lyy.mpi-inf.mpg.de/preprints/Meta_Transfer_Learning_through_Hard_Tasks.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://ieeexplore.ieee.org/document/9173698" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
       <a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
