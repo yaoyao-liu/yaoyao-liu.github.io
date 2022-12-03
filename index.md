@@ -137,12 +137,13 @@ My research lies at the intersection of **computer vision** and **machine learni
             <abbr class="badge">CVIU</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1077314221001144">Learning to Teach and Learn for Semi-supervised Few-shot Image Classification</a></div>
+      <div class="title"><a href="https://lyy.mpi-inf.mpg.de/preprints/Learning_to_Teach_and_Learn_for_Semi_Supervised_Few_Shot_Image_Classification.pdf">Learning to Teach and Learn for Semi-supervised Few-shot Image Classification</a></div>
       <div class="author">Xinzhe Li, Jianqiang Huang, <strong>Yaoyao Liu</strong>, Qin Zhou, Shibao Zheng, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>Computer Vision and Image Understanding <strong>(CVIU)</strong>, Volume 212, 2021.</em>
       </div>
     <div class="links">
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S1077314221001144" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://lyy.mpi-inf.mpg.de/preprints/Learning_to_Teach_and_Learn_for_Semi_Supervised_Few_Shot_Image_Classification.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://doi.org/10.1016/j.cviu.2021.103270" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
       <a href="https://github.com/xinzheli1217/learning-to-self-train" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://bib.yliu.me/CVIU21.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
