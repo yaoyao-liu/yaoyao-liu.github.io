@@ -14,7 +14,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 ## News
 
-- **[Nov. 2022]** Our paper about [class-incremental learning](https://class-il.mpi-inf.mpg.de/online-hyperparameter-optimization/) is accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
+- **[Nov. 2022]** Our paper about [class-incremental learning](https://lyy.mpi-inf.mpg.de/preprints/Online_Hyperparameter_Optimization_for_Class_Incremental_Learning.pdf) is accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
 - **[Oct. 2022]** I am recognized as a top reviewer for [NeurIPS 2022](https://neurips.cc/Conferences/2022/ProgramCommittee).
 - **[Aug. 2022]** I will serve as an area chair of [AISTATS 2023](https://aistats.org/aistats2023/).
 - **[June 2022]** I will serve as a student mentor of [the CVPR Academy](https://sites.google.com/view/cvpr-academy/) at [CVPR 2022](http://cvpr2022.thecvf.com/).
