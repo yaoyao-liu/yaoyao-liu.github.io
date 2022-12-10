@@ -10,12 +10,12 @@ For more details, please refer to <https://github.com/yaoyao-liu/minimal-light>.
 
 ```
 .
-├── .github/workflows            #  the GitHub workflow setting for the Google scholar crawler
+├── .github/workflows            #  the GitHub workflow setting for the Google Scholar crawler
 ├── _layouts                  
 |   └── homepage.html            #  the html template for the homepage 
 ├── _sass                     
 |   └── minimal-light.scss       #  this file will be compiled into a CSS file to control the style of the page
-├── google_scholar_crawler       #  Google scholar crawler files
+├── google_scholar_crawler       #  Google Scholar crawler files
 ├── assets                       #  some JavaScript files and images
 ├── .gitignore                   #  this file specifies intentionally untracked files that Git should ignore
 ├── 404.html                     #  404 not found page
@@ -30,6 +30,12 @@ For more details, please refer to <https://github.com/yaoyao-liu/minimal-light>.
 ├── robots.txt                   #  this file tells search engine crawlers which URLs the crawler can access
 └── sitemap.xml                  #  this file is used to inform search engines about URLs on a website that are available for crawling
 ```
+### Google Scholar Crawler
+
+The instructions for the Google Scholar crawler can be found [here](https://github.com/RayeRen/acad-homepage.github.io).
+<br>
+Before using that, you need to change the Google Scholar ID in the following file:
+https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/7d16d828a229580815428782fb74d937710eb50e/google_scholar_crawler/main.py#L7
 
 ### Using Locally with Jekyll
 
