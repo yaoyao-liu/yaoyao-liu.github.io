@@ -10,10 +10,12 @@ For more details, please refer to <https://github.com/yaoyao-liu/minimal-light>.
 
 ```
 .
+├── .github/workflows            #  the GitHub workflow setting for the Google scholar crawler
 ├── _layouts                  
 |   └── homepage.html            #  the html template for the homepage 
 ├── _sass                     
 |   └── minimal-light.scss       #  this file will be compiled into a CSS file to control the style of the page
+├── google_scholar_crawler       #  Google scholar crawler files
 ├── assets                       #  some JavaScript files and images
 ├── .gitignore                   #  this file specifies intentionally untracked files that Git should ignore
 ├── 404.html                     #  404 not found page
