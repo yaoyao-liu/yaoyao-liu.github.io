@@ -24,7 +24,6 @@ For more details, please refer to <https://github.com/yaoyao-liu/minimal-light>.
 ├── LICENSE                      #  the license file
 ├── README.md                    #  the readme file
 ├── _config.yml                  #  the Jekyll configuration file, including some options of the page  
-├── google2c82924758ed6ef9.html  #  the Google Search Console validation file
 ├── index.md                     #  the content of the index page, using Markdown
 ├── minimal-light.gemspec        #  another RubyGems related file
 ├── robots.txt                   #  this file tells search engine crawlers which URLs the crawler can access
