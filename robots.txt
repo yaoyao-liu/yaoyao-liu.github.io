@@ -16,4 +16,4 @@ Disallow: /git-update.sh
 Disallow: minimal-light.gemspec
 Disallow: /README.md
 
-Sitemap: https://www.mpi-inf.mpg.de/~yaliu/sitemap.xml
+Sitemap: https://yliu.me/sitemap.xml
