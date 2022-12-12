@@ -38,7 +38,7 @@ My research lies at the intersection of **computer vision** and **machine learni
     <img src="https://img.yliu.me/teaser/OnlineHyperparameters.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">AAAI</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://pure.mpg.de/rest/items/item_3478882_1/component/file_3478883/content">Online Hyperparameter Optimization for Class-Incremental Learning</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Yingying Li, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.</em>
@@ -60,7 +60,7 @@ My research lies at the intersection of **computer vision** and **machine learni
     <img src="https://img.yliu.me/teaser/MTL_PAMI.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">TPAMI</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://lyy.mpi-inf.mpg.de/preprints/Meta_Transfer_Learning_through_Hard_Tasks.pdf">Meta-Transfer Learning through Hard Tasks</a></div>
       <div class="author">Qianru Sun,* <strong>Yaoyao Liu</strong>,<strong>*</strong> Zhaozheng Chen, Tat-Seng Chua, Bernt Schiele (*=Equal contribution)</div>
       <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, Volume 44, Number 3, 2022.</em>
@@ -84,7 +84,7 @@ My research lies at the intersection of **computer vision** and **machine learni
     <img src="https://img.yliu.me/teaser/RMM.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NeurIPS</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://openreview.net/pdf?id=BfPzZSype5M">RMM: Reinforced Memory Management for Class-Incremental Learning</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.</em>
@@ -107,7 +107,7 @@ My research lies at the intersection of **computer vision** and **machine learni
     <img src="https://img.yliu.me/teaser/AANets.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2010.05063.pdf">Adaptive Aggregation Networks for Class-Incremental Learning</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021.</em>
@@ -137,7 +137,7 @@ My research lies at the intersection of **computer vision** and **machine learni
     <img src="https://img.yliu.me/teaser/LTTL.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVIU</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://lyy.mpi-inf.mpg.de/preprints/Learning_to_Teach_and_Learn_for_Semi_Supervised_Few_Shot_Image_Classification.pdf">Learning to Teach and Learn for Semi-supervised Few-shot Image Classification</a></div>
       <div class="author">Xinzhe Li, Jianqiang Huang, <strong>Yaoyao Liu</strong>, Qin Zhou, Shibao Zheng, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>Computer Vision and Image Understanding <strong>(CVIU)</strong>, Volume 212, 2021.</em>
@@ -160,7 +160,7 @@ My research lies at the intersection of **computer vision** and **machine learni
     <img src="https://img.yliu.me/teaser/tnnls.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">TNNLS</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9146375">Generating Face Images with Attributes for Free</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Qianru Sun, Xiangnan He, An-An Liu, Yuting Su, Tat-Seng Chua</div>
       <div class="periodical"><em>IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong>, Volume 32, Number 6, 2021.</em>
@@ -181,7 +181,7 @@ My research lies at the intersection of **computer vision** and **machine learni
     <img src="https://img.yliu.me/teaser/E3BM.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ECCV</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610392.pdf">An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2020.</em>
@@ -205,7 +205,7 @@ My research lies at the intersection of **computer vision** and **machine learni
     <img src="https://img.yliu.me/teaser/mnemonics.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Mnemonics Training: Multi-Class Incremental Learning without Forgetting</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em>
@@ -229,7 +229,7 @@ My research lies at the intersection of **computer vision** and **machine learni
     <img src="https://img.yliu.me/teaser/LST.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NeurIPS</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf">Learning to Self-Train for Semi-Supervised Few-Shot Classification</a></div>
       <div class="author">Xinzhe Li, Qianru Sun, <strong>Yaoyao Liu</strong>, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele</div>
       <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2019.</em>
@@ -252,7 +252,7 @@ My research lies at the intersection of **computer vision** and **machine learni
     <img src="https://img.yliu.me/teaser/MTL_CVPR.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf">Meta-Transfer Learning for Few-Shot Learning</a></div>
       <div class="author">Qianru Sun,* <strong>Yaoyao Liu</strong>,<strong>*</strong> Tat-Seng Chua, Bernt Schiele (*=Equal contribution)</div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.</em>
