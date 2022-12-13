@@ -156,12 +156,9 @@
       {% endif %}
 
       <br>
-      {% if site.clustrmaps_link_1 %}
-      <p hidden><script type="text/javascript" id="clstr_globe" src="{{ site.clustrmaps_link_1 }}"></script></p>
-      {% endif %}
-      {% if site.clustrmaps_link_2 %}
+      {% if site.clustrmaps_link %}
       <div style="width:100px; pointer-events: none;">
-      <script type="text/javascript" id="clstr_globe" src="{{ site.clustrmaps_link_2 }}"></script>
+      <script type="text/javascript" id="clstr_globe" src="{{ site.clustrmaps_link }}"></script>
       </div>
       {% endif %}
       
