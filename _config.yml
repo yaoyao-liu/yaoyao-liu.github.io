@@ -33,7 +33,8 @@ footnote_link: https://github.com/yaoyao-liu/minimal-light
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my Google Analytics and ClustrMaps accounts.
 google_analytics: UA-111540567-4
-clustrmaps_link: //clustrmaps.com/globe.js?d=l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
+clustrmaps_link_1: //clustrmaps.com/globe.js?d=l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
+clustrmaps_link_2: //clustrmaps.com/globe.js?d=HV0rAUdAxpfEQLOsVs0FcJTR2rKVI5sEQUZIDM-N_HY
 
 # General Data Protection Regulation (GDPR) information
 # If you don't need to add the GDPR information, you may remove the following lines.
