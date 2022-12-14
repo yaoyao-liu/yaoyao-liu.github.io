@@ -17,7 +17,7 @@ bundle install
 bundle exec jekyll server
 ```
 View the live page using `localhost`:
-<http://localhost:4000>. You can get the html files in `_site` folder.
+<http://localhost:4000>. You can get the html files in the `_site` folder.
 
 ### Google Scholar Crawler
 
