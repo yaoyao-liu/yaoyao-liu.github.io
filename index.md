@@ -19,7 +19,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 - **[Oct. 2022]** I am recognized as a top reviewer for [NeurIPS 2022](https://neurips.cc/Conferences/2022/ProgramCommittee).
 - **[Aug. 2022]** I will serve as an area chair of [AISTATS 2023](https://aistats.org/aistats2023/).
 - **[June 2022]** I will serve as a student mentor of [the CVPR Academy](https://sites.google.com/view/cvpr-academy/) at [CVPR 2022](http://cvpr2022.thecvf.com/).
-- **[June 2022]** I will serve as a website chair of [BMVC 2022](https://bmvc2022.org/people/organisers/) along with [Yash Bhalgat](https://yashbhalgat.github.io/).
+- **[June 2022]** I will serve as a website chair of [BMVC 2022](https://bmvc2022.org/people/organisers/), along with [Yash Bhalgat](https://yashbhalgat.github.io/).
 - **[Sept. 2021]** Our paper about [class-incremental learning](https://openreview.net/pdf?id=BfPzZSype5M) is accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
 - **[Mar. 2021]** Our paper about [class-incremental learning](https://arxiv.org/pdf/2010.05063.pdf) is accepted to [CVPR 2021](http://cvpr2021.thecvf.com/).
 - **[July 2020]** Our paper about [few-shot learning](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58517-4_24.pdf) is accepted to [ECCV 2020](https://eccv2020.eu/).
