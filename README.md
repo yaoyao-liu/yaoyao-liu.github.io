@@ -6,30 +6,6 @@ This is the latest version of my homepage's source code. Feel free to use and sh
 <br />
 For more details, please refer to <https://github.com/yaoyao-liu/minimal-light>.
 
-### Project Architecture
-
-```
-.
-├── .github/workflows            #  the GitHub workflow setting for the Google Scholar crawler
-├── _layouts                  
-|   └── homepage.html            #  the html template for the homepage 
-├── _sass                     
-|   └── minimal-light.scss       #  this file will be compiled into a CSS file to control the style of the page
-├── google_scholar_crawler       #  Google Scholar crawler files
-├── assets                       #  some JavaScript files and images
-├── .gitignore                   #  this file specifies intentionally untracked files that Git should ignore
-├── 404.html                     #  404 not found page
-├── CNAME                        #  the custom domain, will be used by GitHub page sevice
-├── Gemfile                      #  a RubyGems related file
-├── LICENSE                      #  the license file
-├── README.md                    #  the readme file
-├── _config.yml                  #  the Jekyll configuration file, including some options of the page  
-├── index.md                     #  the content of the index page, using Markdown
-├── minimal-light.gemspec        #  another RubyGems related file
-├── robots.txt                   #  this file tells search engine crawlers which URLs the crawler can access
-└── sitemap.xml                  #  this file is used to inform search engines about URLs on a website that are available for crawling
-```
-
 ### Using Locally with Jekyll
 
 You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.

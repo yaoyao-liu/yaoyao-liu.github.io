@@ -13,6 +13,9 @@ description: Yaoyao Liu is a Ph.D. candidate at Max Planck Institute for Informa
 # The option is used to enable the MPI Informatics template.
 enable_mpi_logo: true
 
+# The option is used to show the last update time.
+enable_last_update: false
+
 # Links
 google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
 cv_link: https://files.yliu.me/Yaoyao_Liu_Curriculum_Vitae.pdf
@@ -32,7 +35,7 @@ footnote_link: https://github.com/yaoyao-liu/minimal-light
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: HV0rAUdAxpfEQLOsVs0FcJTR2rKVI5sEQUZIDM-N_HY
+clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
 
 # General Data Protection Regulation (GDPR) information
 # If you don't need to add the GDPR information, you may remove the following lines.
