@@ -13,7 +13,6 @@ Disallow: /LICENSE
 Disallow: /.gitignore
 Disallow: /.github/
 Disallow: /git-update.sh
-Disallow: minimal-light.gemspec
 Disallow: /README.md
 
 Sitemap: https://yliu.me/sitemap.xml
