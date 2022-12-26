@@ -48,5 +48,4 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENSE
-  - minimal-light.gemspec
   - CNAME
