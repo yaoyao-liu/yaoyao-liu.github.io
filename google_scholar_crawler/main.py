@@ -21,3 +21,11 @@ shieldio_data = {
 }
 with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
     json.dump(shieldio_data, outfile, ensure_ascii=False)
+
+shieldio_data_mtl = {
+  "schemaVersion": 1,
+  "label": "citations",
+  "message": f"{author['publications']['Uf9GqRsAAAAJ:bEWYMUwI8FkC']['num_citations']}",
+}
+with open(f'results/gs_data_shieldsio_mtl.json', 'w') as outfile:
+    json.dump(shieldio_data_mtl, outfile, ensure_ascii=False)
