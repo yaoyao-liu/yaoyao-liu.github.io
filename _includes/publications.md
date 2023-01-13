@@ -10,12 +10,12 @@
             <abbr class="badge">AAAI</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://pure.mpg.de/rest/items/item_3478882_1/component/file_3478883/content">Online Hyperparameter Optimization for Class-Incremental Learning</a></div>
+      <div class="title"><a href="https://arxiv.org/pdf/2301.05032.pdf">Online Hyperparameter Optimization for Class-Incremental Learning</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Yingying Li, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://pure.mpg.de/rest/items/item_3478882_1/component/file_3478883/content" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/pdf/2301.05032.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yaoyao-liu/online-hyperparameter-optimization/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://class-il.mpi-inf.mpg.de/online-hyperparameter-optimization/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://bib.yliu.me/AAAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
