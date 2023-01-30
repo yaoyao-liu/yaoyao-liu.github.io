@@ -1,14 +1,14 @@
 # Basic Information 
 title: Yaoyao Liu
-position: Ph.D. Candidate
-affiliation: Max Planck Institute for Informatics
-affiliation_link: https://www.mpi-inf.mpg.de/
-email: yaoyao.liu (at) mpi-inf.mpg.de
+position: Postdoctoral Fellow
+affiliation: Johns Hopkins University
+affiliation_link: https://cs.jhu.edu/
+email: yliu538 (at) jhu.edu
 
 # Search Engine Optimization (SEO)
 keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://www.mpi-inf.mpg.de/~yaliu/
-description: Yaoyao Liu is a Ph.D. candidate at Max Planck Institute for Informatics. His research lies in meta-learning, incremental learning, and image generation.
+canonical: https://yliu.me/
+description: Yaoyao Liu is a postdoctoral fellow at Johns Hopkins University. His research lies in meta-learning, incremental learning, and image generation.
 
 # The option is used to enable the MPI Informatics template.
 enable_mpi_logo: true
@@ -36,11 +36,6 @@ footnote_link: https://github.com/yaoyao-liu/minimal-light
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
 clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
-
-# General Data Protection Regulation (GDPR) information
-# If you don't need to add the GDPR information, you may remove the following lines.
-imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu
-data_protection: https://data-protection.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu?lang=en
 
 # The following files will be removed from the generated website.
 exclude:
