@@ -10,8 +10,8 @@ keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
 canonical: https://yliu.me/
 description: Yaoyao Liu is a postdoctoral fellow at Johns Hopkins University. His research lies in meta-learning, incremental learning, and image generation.
 
-# The option is used to enable the MPI Informatics template.
-enable_mpi_logo: true
+# The option is used to enable the Johns Hopkins template.
+enable_jhu_logo: true
 
 # The option is used to show the last update time.
 enable_last_update: false
