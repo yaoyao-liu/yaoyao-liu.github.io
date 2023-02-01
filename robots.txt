@@ -15,4 +15,4 @@ Disallow: /.github/
 Disallow: /git-update.sh
 Disallow: /README.md
 
-Sitemap: https://yliu.me/sitemap.xml
+Sitemap: https://https://www.cs.jhu.edu/~yyliu/sitemap.xml
