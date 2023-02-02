@@ -6,10 +6,10 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://img.yliu.me/teaser/OnlineHyperparameters.png" class="teaser img-fluid z-depth-1">
+    <img src="https://img.yliu.me/teaser/OnlineHyperparameters.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
             <abbr class="badge">AAAI</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2301.05032">Online Hyperparameter Optimization for Class-Incremental Learning</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Yingying Li, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.</em>
@@ -33,7 +33,7 @@
     <img src="https://img.yliu.me/teaser/MTL_PAMI.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">TPAMI</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/document/9173698/">Meta-Transfer Learning through Hard Tasks</a></div>
       <div class="author">Qianru Sun,* <strong>Yaoyao Liu</strong>,<strong>*</strong> Zhaozheng Chen, Tat-Seng Chua, Bernt Schiele (*=Equal contribution)</div>
       <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, Volume 44, Number 3, 2022.</em>
@@ -57,7 +57,7 @@
     <img src="https://img.yliu.me/teaser/RMM.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NeurIPS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://proceedings.neurips.cc/paper/2021/hash/1cbcaa5abbb6b70f378a3a03d0c26386-Abstract.html">RMM: Reinforced Memory Management for Class-Incremental Learning</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.</em>
@@ -80,7 +80,7 @@
     <img src="https://img.yliu.me/teaser/AANets.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Adaptive_Aggregation_Networks_for_Class-Incremental_Learning_CVPR_2021_paper.html">Adaptive Aggregation Networks for Class-Incremental Learning</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021.</em>
@@ -110,7 +110,7 @@
     <img src="https://img.yliu.me/teaser/LTTL.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVIU</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://doi.org/10.1016/j.cviu.2021.103270">Learning to Teach and Learn for Semi-supervised Few-shot Image Classification</a></div>
       <div class="author">Xinzhe Li, Jianqiang Huang, <strong>Yaoyao Liu</strong>, Qin Zhou, Shibao Zheng, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>Computer Vision and Image Understanding <strong>(CVIU)</strong>, Volume 212, 2021.</em>
@@ -133,7 +133,7 @@
     <img src="https://img.yliu.me/teaser/tnnls.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">TNNLS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9146375">Generating Face Images with Attributes for Free</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Qianru Sun, Xiangnan He, An-An Liu, Yuting Su, Tat-Seng Chua</div>
       <div class="periodical"><em>IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong>, Volume 32, Number 6, 2021.</em>
@@ -154,7 +154,7 @@
     <img src="https://img.yliu.me/teaser/E3BM.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ECCV</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2562_ECCV_2020_paper.php">An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2020.</em>
@@ -178,7 +178,7 @@
     <img src="https://img.yliu.me/teaser/mnemonics.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Mnemonics_Training_Multi-Class_Incremental_Learning_Without_Forgetting_CVPR_2020_paper.html">Mnemonics Training: Multi-Class Incremental Learning without Forgetting</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em>
@@ -202,7 +202,7 @@
     <img src="https://img.yliu.me/teaser/LST.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NeurIPS</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://proceedings.neurips.cc/paper/2019/hash/bf25356fd2a6e038f1a3a59c26687e80-Abstract.html">Learning to Self-Train for Semi-Supervised Few-Shot Classification</a></div>
       <div class="author">Xinzhe Li, Qianru Sun, <strong>Yaoyao Liu</strong>, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele</div>
       <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2019.</em>
@@ -225,7 +225,7 @@
     <img src="https://img.yliu.me/teaser/MTL_CVPR.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.html">Meta-Transfer Learning for Few-Shot Learning</a></div>
       <div class="author">Qianru Sun,* <strong>Yaoyao Liu</strong>,<strong>*</strong> Tat-Seng Chua, Bernt Schiele (*=Equal contribution)</div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.</em>
