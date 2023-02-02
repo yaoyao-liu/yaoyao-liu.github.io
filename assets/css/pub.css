@@ -22,8 +22,6 @@
 
 @media (prefers-color-scheme: dark) { :root { --global-theme-color: rgb(36, 150, 203);}}
 
-
-
 blockquote { background: var(--global-bg-color); border-left: 2px solid var(--global-theme-color); margin: 1.5em 10px; padding: 0.5em 10px; font-size: 1.2rem; }
 
 @media print, screen and (min-width: 960px) {.col-sm-9 {width: 100%;}}
