@@ -36,9 +36,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 {% include_relative _includes/services.md %}
 
-<!--
 ## Contact
-**Address:** [Max-Planck-Institut für Informatik, Campus E1 4, 66123 Saarbrücken, Germany](https://g.page/MPI-INF)
+**Address:** [3400 N Charles St, Baltimore, MD 21218](https://g.page/MPI-INF)
 <br>
-**Office Location:** E1 4 - 609 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Phone:** +49 681 9325 2109
--->
+**Office Location:** 248 Malone Hall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Phone:** (857) 209-8688
