@@ -11,6 +11,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://aistats.org/aistats2023/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2023</autocolor></a></li>
+  <li><a href="https://www.auai.org/uai2023/"><autocolor>The Conference on Uncertainty in Artificial Intelligence (UAI) 2023</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Senior Program Committee</h4>
