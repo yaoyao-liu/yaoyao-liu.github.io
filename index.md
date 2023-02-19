@@ -14,7 +14,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 ## News
 
-- **[Dec. 2022]** [BMVC 2023](https://www.bmvc2023.org) will be in Aberdeen, and I will serve as the website chair.
+- **[Dec. 2022]** [BMVC 2023](https://www.bmvc2023.org) will be in Aberdeen, UK, and I will serve as the website chair.
 - **[Nov. 2022]** Our paper about [class-incremental learning](https://pure.mpg.de/rest/items/item_3478882_1/component/file_3478883/content) is accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
 - **[Oct. 2022]** I am recognized as a top reviewer for [NeurIPS 2022](https://neurips.cc/Conferences/2022/ProgramCommittee).
 - **[Aug. 2022]** I will serve as an area chair of [AISTATS 2023](https://aistats.org/aistats2023/).
