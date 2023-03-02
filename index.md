@@ -17,7 +17,7 @@ My research lies at the intersection of **computer vision** and **machine learni
 <ul>
 <li><strong>[Feb. 2023]</strong> Two papers about <a href="./#publications">continual learning</a> are accepted to <a href="http://cvpr2023.thecvf.com/">CVPR 2023</a>.</li>
   <li><strong>[Feb. 2023]</strong> I will serve as an area chair of <a href="https://www.auai.org/uai2023/">UAI 2023</a>.</li>
-  <li><strong>[Dec. 2022]</strong> <a href="https://www.bmvc2023.org">BMVC 2023</a> will be in Aberdeen, UK, and I will serve as the website chair.</li>
+  <li><strong>[Dec. 2022]</strong> <a href="https://www.bmvc2023.org">BMVC 2023</a> will be held in Aberdeen, UK, and I will serve as the website chair.</li>
   <li><strong>[Nov. 2022]</strong> Our paper about <a href="https://pure.mpg.de/rest/items/item_3478882_1/component/file_3478883/content">class-incremental learning</a> is accepted to <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.</li>
   <li><strong>[Oct. 2022]</strong> I am recognized as a top reviewer for <a href="https://neurips.cc/Conferences/2022/ProgramCommittee">NeurIPS 2022</a>.</li>
   
