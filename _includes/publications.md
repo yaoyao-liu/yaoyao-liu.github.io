@@ -10,7 +10,7 @@
             <abbr class="badge">CVPR</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://lyy.mpi-inf.mpg.de/preprints/Continual_Detection_Transformer_for_Incremental_Object_Detection.pdf">Continual Detection Transformer for Incremental Object Detection</a></div>
+      <div class="title"><a href="https://www.cs.jhu.edu/~yyliu/preprints/Continual_Detection_Transformer_for_Incremental_Object_Detection.pdf">Continual Detection Transformer for Incremental Object Detection</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Bernt Schiele, Andrea Vedaldi, Christian Rupprecht</div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em>
       </div>
@@ -31,7 +31,7 @@
             <abbr class="badge">CVPR</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://lyy.mpi-inf.mpg.de/preprints/Class_Incremental_Exemplar_Compression_for_Class_Incremental_Learning.pdf">Class-Incremental Exemplar Compression for Class-Incremental Learning</a></div>
+      <div class="title"><a href="https://www.cs.jhu.edu/~yyliu/preprints/Class_Incremental_Exemplar_Compression_for_Class_Incremental_Learning.pdf">Class-Incremental Exemplar Compression for Class-Incremental Learning</a></div>
       <div class="author">Zilin Luo, <strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em>
       </div>
