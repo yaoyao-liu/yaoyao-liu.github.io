@@ -15,7 +15,7 @@
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://lyy.mpi-inf.mpg.de/preprints/Continual_Detection_Transformer_for_Incremental_Object_Detection.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.cs.jhu.edu/~yyliu/preprints/Continual_Detection_Transformer_for_Incremental_Object_Detection.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://bib.yliu.me/CVPR23a.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
     </div>
   </div>
@@ -36,7 +36,7 @@
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://lyy.mpi-inf.mpg.de/preprints/Class_Incremental_Exemplar_Compression_for_Class_Incremental_Learning.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.cs.jhu.edu/~yyliu/preprints/Class_Incremental_Exemplar_Compression_for_Class_Incremental_Learning.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://bib.yliu.me/CVPR23b.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
     </div>
   </div>
