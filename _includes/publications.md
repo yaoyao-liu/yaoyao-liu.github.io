@@ -39,6 +39,7 @@
       </div>
     <div class="links">
       <a href="https://www.cs.jhu.edu/~yyliu/preprints/Class_Incremental_Exemplar_Compression_for_Class_Incremental_Learning.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/xfflzl/CIM-CIL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://bib.yliu.me/CVPR23b.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
     </div>
   </div>
