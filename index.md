@@ -15,6 +15,8 @@ My research lies at the intersection of **computer vision** and **machine learni
 ## News
 
 <ul>
+<li><strong>[Mar. 2023]</strong> I gave a talk on continual learning at <a href="https://vigr.cs.columbia.edu/vigr_seminar.html">the VIGR Seminar</a> at Columbia. </li>
+<li><strong>[Mar. 2023]</strong> I gave a talk on few-shot learning at EPFL. </li>
 <li><strong>[Feb. 2023]</strong> Two papers about <a href="./#publications">continual learning</a> are accepted to <a href="http://cvpr2023.thecvf.com/">CVPR 2023</a>.</li>
   <li><strong>[Feb. 2023]</strong> I will serve as an area chair of <a href="https://www.auai.org/uai2023/">UAI 2023</a>.</li>
   <li><strong>[Dec. 2022]</strong> <a href="https://www.bmvc2023.org">BMVC 2023</a> will be held in Aberdeen, UK, and I will serve as the website chair.</li>
