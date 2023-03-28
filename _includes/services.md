@@ -26,7 +26,7 @@
   <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
   <li><a href="http://iccv2023.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021-2023</autocolor></a></li>
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-  <li><a href="https://neurips.cc/Conferences/2022"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2020-2022</autocolor></a></li>
+  <li><a href="https://neurips.cc/Conferences/2023"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2020-2023</autocolor></a></li>
   <li><a href="https://icml.cc/Conferences/2022"><autocolor>International Conference on Machine Learning (ICML) 2021-2023</autocolor></a></li>
   <li><a href="https://iclr.cc/Conferences/2023"><autocolor>International Conference on Learning Representations (ICLR) 2022-2023</autocolor></a></li>
   <li><a href="https://aaai.org/Conferences/AAAI-23/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2021-2023</autocolor></a></li>
