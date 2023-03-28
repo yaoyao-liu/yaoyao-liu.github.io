@@ -15,16 +15,18 @@ My research lies at the intersection of **computer vision** and **machine learni
 ## News
 
 <ul>
+<li><strong>[Apr. 2023]</strong> I will give a talk on continual learning at <a href="https://vision.cs.illinois.edu/vision_website/">the External Speaker Series</a> at UIUC. </li>
+<li><strong>[Mar. 2023]</strong> I will participate in the <a href="https://cvpr2023.thecvf.com/Conferences/2023/CallForDoctoralConsortium">CVPR 2023 Doctoral Consortium</a> with a travel award. </li>
 <li><strong>[Mar. 2023]</strong> I gave a talk on continual learning at <a href="https://vigr.cs.columbia.edu/vigr_seminar.html">the VIGR Seminar</a> at Columbia. </li>
 <li><strong>[Mar. 2023]</strong> I gave a talk on few-shot learning at EPFL. </li>
 <li><strong>[Feb. 2023]</strong> Two papers about <a href="./#publications">continual learning</a> are accepted to <a href="http://cvpr2023.thecvf.com/">CVPR 2023</a>.</li>
   <li><strong>[Feb. 2023]</strong> I will serve as an area chair of <a href="https://www.auai.org/uai2023/">UAI 2023</a>.</li>
-  <li><strong>[Dec. 2022]</strong> <a href="https://www.bmvc2023.org">BMVC 2023</a> will be held in Aberdeen, UK, and I will serve as the website chair.</li>
-  <li><strong>[Nov. 2022]</strong> Our paper about <a href="https://pure.mpg.de/rest/items/item_3478882_1/component/file_3478883/content">class-incremental learning</a> is accepted to <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.</li>
-  <li><strong>[Oct. 2022]</strong> I am recognized as a top reviewer for <a href="https://neurips.cc/Conferences/2022/ProgramCommittee">NeurIPS 2022</a>.</li>
   
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
+  <li><strong>[Dec. 2022]</strong> <a href="https://www.bmvc2023.org">BMVC 2023</a> will be held in Aberdeen, UK, and I will serve as the website chair.</li>
+  <li><strong>[Nov. 2022]</strong> Our paper about <a href="https://pure.mpg.de/rest/items/item_3478882_1/component/file_3478883/content">class-incremental learning</a> is accepted to <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.</li>
+  <li><strong>[Oct. 2022]</strong> I am recognized as a top reviewer for <a href="https://neurips.cc/Conferences/2022/ProgramCommittee">NeurIPS 2022</a>.</li>
   <li><strong>[Aug. 2022]</strong> I will serve as an area chair of <a href="https://aistats.org/aistats2023/">AISTATS 2023</a>.</li>
   <li><strong>[Jun. 2022]</strong> I will serve as a student mentor of <a href="https://sites.google.com/view/cvpr-academy/">the CVPR Academy</a> at <a href="http://cvpr2022.thecvf.com/">CVPR 2022</a>.</li>
   <li><strong>[Jun. 2022]</strong> I will serve as a website chair of <a href="https://bmvc2022.org/people/organisers/">BMVC 2022</a>, along with <a href="https://yashbhalgat.github.io/">Yash Bhalgat</a>.</li>
