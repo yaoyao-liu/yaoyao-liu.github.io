@@ -40,6 +40,7 @@
     <div class="links">
       <a href="https://arxiv.org/pdf/2303.14042.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/xfflzl/CIM-CIL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://class-il.mpi-inf.mpg.de/CIM/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://bib.yliu.me/CVPR23b.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
     </div>
   </div>
