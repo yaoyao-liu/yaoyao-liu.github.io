@@ -7,7 +7,7 @@
   <li>Website Master, <a href="https://www.acmmmasia.org/2020/committee.html"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia) 2020</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Area Chair</h4>
+<h4 style="margin:0 10px 0;">Area Chairs</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://bmvc2023.org/"><autocolor>The British Machine Vision Conference (BMVC) 2023</autocolor></a></li>
