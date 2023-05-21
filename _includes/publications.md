@@ -15,7 +15,7 @@
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://ora.ox.ac.uk/objects/uuid:c4e0ac4b-210d-4a81-b75d-4d0e5526ab8a/download_file?file_format=application%2Fpdf&safe_filename=Liu_et_al_2023_Continual_Detection_Transformer.pdf&type_of_work=Conference+item" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://ora.ox.ac.uk/objects/uuid:c4e0ac4b-210d-4a81-b75d-4d0e5526ab8a/files/s1z40kv268" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yaoyao-liu/CL-DETR" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://lyy.mpi-inf.mpg.de/CL-DETR/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://bib.yliu.me/CVPR23a.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
