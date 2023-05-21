@@ -10,12 +10,12 @@
             <abbr class="badge">CVPR</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://www.cs.jhu.edu/~yyliu/preprints/Continual_Detection_Transformer_for_Incremental_Object_Detection.pdf">Continual Detection Transformer for Incremental Object Detection</a></div>
+      <div class="title"><a href="https://ora.ox.ac.uk/objects/uuid:c4e0ac4b-210d-4a81-b75d-4d0e5526ab8a">Continual Detection Transformer for Incremental Object Detection</a></div>
       <div class="author"><strong>Yaoyao Liu</strong>, Bernt Schiele, Andrea Vedaldi, Christian Rupprecht</div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://www.cs.jhu.edu/~yyliu/preprints/Continual_Detection_Transformer_for_Incremental_Object_Detection.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://ora.ox.ac.uk/objects/uuid:c4e0ac4b-210d-4a81-b75d-4d0e5526ab8a/download_file?file_format=application%2Fpdf&safe_filename=Liu_et_al_2023_Continual_Detection_Transformer.pdf&type_of_work=Conference+item" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yaoyao-liu/CL-DETR" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://lyy.mpi-inf.mpg.de/CL-DETR/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://bib.yliu.me/CVPR23a.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
@@ -33,12 +33,12 @@
             <abbr class="badge">CVPR</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/abs/2303.14042">Class-Incremental Exemplar Compression for Class-Incremental Learning</a></div>
+      <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2023/html/Luo_Class-Incremental_Exemplar_Compression_for_Class-Incremental_Learning_CVPR_2023_paper.html">Class-Incremental Exemplar Compression for Class-Incremental Learning</a></div>
       <div class="author">Zilin Luo, <strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun</div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2303.14042.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_Class-Incremental_Exemplar_Compression_for_Class-Incremental_Learning_CVPR_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/xfflzl/CIM-CIL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://class-il.mpi-inf.mpg.de/CIM/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://bib.yliu.me/CVPR23b.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
