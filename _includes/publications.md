@@ -103,7 +103,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/document/9173698/">Meta-Transfer Learning through Hard Tasks</a></div>
-      <div class="author">Qianru Sun,* <strong>Yaoyao Liu</strong>,<strong>*</strong> Zhaozheng Chen, Tat-Seng Chua, Bernt Schiele (*=Equal contribution)</div>
+      <div class="author">Qianru Sun*, <strong>Yaoyao Liu*</strong>, Zhaozheng Chen, Tat-Seng Chua, Bernt Schiele (* Equal contribution)</div>
       <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, Volume 44, Number 3, 2022.</em>
       </div>
     <div class="links">
@@ -295,7 +295,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.html">Meta-Transfer Learning for Few-Shot Learning</a></div>
-      <div class="author">Qianru Sun,* <strong>Yaoyao Liu</strong>,<strong>*</strong> Tat-Seng Chua, Bernt Schiele (*=Equal contribution)</div>
+      <div class="author">Qianru Sun*, <strong>Yaoyao Liu*</strong>, Tat-Seng Chua, Bernt Schiele (* Equal contribution)</div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.</em>
       </div>
     <div class="links">
