@@ -13,7 +13,7 @@
       <div class="title"><a href="">Learning without Forgetting for Continual Abdominal Multi-Organ and Tumor Segmentation
 </a></div>
       <div class="author">Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu</strong>, Zongwei Zhou</div>
-      <div class="periodical"><em>Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.</em>
+      <div class="periodical"><em>International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.</em>
       </div>
     <div class="links">
       <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
