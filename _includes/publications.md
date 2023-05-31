@@ -11,7 +11,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://pages.jh.edu/yliu538/files/MICCAI2023_Continual_Learning_for_Abdominal_Multi-Organ_and_Tumor_Segmentation.pdf">Continual Learning for Abdominal Multi-Organ and Tumor Segmentation</a></div>
-      <div class="author">Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu</strong>, Zongwei Zhou</div>
+      <div class="author">Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (* Corresponding authors)</div>
       <div class="periodical"><em>International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.</em>
       </div>
     <div class="links">
