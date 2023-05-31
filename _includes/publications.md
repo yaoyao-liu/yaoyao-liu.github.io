@@ -10,12 +10,13 @@
             <abbr class="badge">MICCAI</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="">Learning without Forgetting for Continual Abdominal Multi-Organ and Tumor Segmentation
-</a></div>
+      <div class="title"><a href="https://pages.jh.edu/yliu538/files/MICCAI2023_Continual_Learning_for_Abdominal_Multi-Organ_and_Tumor_Segmentation.pdf">Continual Learning for Abdominal Multi-Organ and Tumor Segmentation</a></div>
       <div class="author">Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu</strong>, Zongwei Zhou</div>
       <div class="periodical"><em>International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.</em>
       </div>
     <div class="links">
+      <a href="https://pages.jh.edu/yliu538/files/MICCAI2023_Continual_Learning_for_Abdominal_Multi-Organ_and_Tumor_Segmentation.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/MrGiovanni/ContinualLearning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
       <strong> <i style="color:#e74d3c">Early Accept</i></strong>
     </div>
