@@ -1,7 +1,7 @@
 ## News
 
 <ul>
-<li><strong>[May 2023]</strong> Our paper about continual learning is accepted to <a href="https://conferences.miccai.org/2023/en/">MICCAI 2023</a>.</li>
+<li><strong>[May 2023]</strong> Our paper about [continual learning](https://pages.jh.edu/yliu538/files/MICCAI2023_Continual_Learning_for_Abdominal_Multi-Organ_and_Tumor_Segmentation.pdf) is accepted to <a href="https://conferences.miccai.org/2023/en/">MICCAI 2023</a>.</li>
 <li><strong>[Apr. 2023]</strong> I will give a talk on continual learning at <a href="https://vision.cs.illinois.edu/vision_website/">UIUC External Speaker Series</a>.</li>
 <li><strong>[Apr. 2023]</strong> I will give a talk on continual learning at <a href="https://sites.google.com/view/visionseminar">MIT Vision and Graphics Seminar</a>.</li>
 <li><strong>[Apr. 2023]</strong> I will serve as an area chair of <a href="https://www.auai.org/uai2023/">UAI 2023</a> and <a href="https://bmvc2023.rog/">BMVC 2023</a>.</li>
