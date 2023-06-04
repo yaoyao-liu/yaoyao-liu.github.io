@@ -2,7 +2,7 @@
 
 <ul>
 <li><strong>[May 2023]</strong> Our paper about <a href="https://arxiv.org/pdf/2306.00988.pdf">continual learning</a> is accepted to <a href="https://conferences.miccai.org/2023/en/">MICCAI 2023</a>.</li>
-<li><strong>[Apr. 2023]</strong> I will give a talk on continual learning at <a href="https://vision.cs.illinois.edu/vision_website/">UIUC External Speaker Series</a>.</li>
+<li><strong>[Apr. 2023]</strong> I will give a talk on continual learning at <a href="https://calendars.illinois.edu/detail/2568?eventId=33456212">UIUC External Speaker Series</a>.</li>
 <li><strong>[Apr. 2023]</strong> I will give a talk on continual learning at <a href="https://sites.google.com/view/visionseminar">MIT Vision and Graphics Seminar</a>.</li>
 <li><strong>[Apr. 2023]</strong> I will serve as an area chair of <a href="https://www.auai.org/uai2023/">UAI 2023</a> and <a href="https://bmvc2023.rog/">BMVC 2023</a>.</li>
 <li><strong>[Mar. 2023]</strong> I will participate in the <a href="https://cvpr2023.thecvf.com/Conferences/2023/CallForDoctoralConsortium">CVPR 2023 Doctoral Consortium</a> with a travel award. </li>
