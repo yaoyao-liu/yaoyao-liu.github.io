@@ -18,12 +18,12 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 ## Teaching
 
-<ul style="margin:0 0 5px;">
+<ul>
   <li>
-    <p>Head TA, <a href="https://www.mpi-inf.mpg.de/hlcv">High-Level Computer Vision</a> at <a href="https://www.uni-saarland.de/">Universität des Saarlandes</a>, 2022</p>
+    Head TA, <a href="https://www.mpi-inf.mpg.de/hlcv">High-Level Computer Vision</a> at <a href="https://www.uni-saarland.de/">Universität des Saarlandes</a>, 2022
   </li>
   <li>
-    <p>TA, <a href="https://www.mpi-inf.mpg.de/hlcv">High-Level Computer Vision</a> at <a href="https://www.uni-saarland.de/">Universität des Saarlandes</a>, 2021</p>
+    TA, <a href="https://www.mpi-inf.mpg.de/hlcv">High-Level Computer Vision</a> at <a href="https://www.uni-saarland.de/">Universität des Saarlandes</a>, 2021
   </li>
 </ul>
 
