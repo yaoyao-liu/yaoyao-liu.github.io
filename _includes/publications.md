@@ -11,7 +11,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2306.08103">Adding 3D Geometry Control to Diffusion Models</a></div>
-      <div class="author">Wufei Ma*, Qihao Liu*, Jiahao Wang*, Angtian Wang, <strong>Yaoyao Liu#</strong>, Adam Kortylewski, Alan Yuille (# Corresponding authors)</div>
+      <div class="author">Wufei Ma*, Qihao Liu*, Jiahao Wang*, Angtian Wang, <strong>Yaoyao Liu#</strong>, Adam Kortylewski, Alan Yuille (# Corresponding author)</div>
       <div class="periodical"><em>Under review.</em>
       </div>
     <div class="links">
@@ -32,7 +32,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2306.00988">Continual Learning for Abdominal Multi-Organ and Tumor Segmentation</a></div>
-      <div class="author">Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (* Corresponding authors)</div>
+      <div class="author">Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu#</strong>, Zongwei Zhou# (* Corresponding authors)</div>
       <div class="periodical"><em>International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.</em>
       </div>
     <div class="links">
