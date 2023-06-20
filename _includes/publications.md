@@ -37,8 +37,10 @@
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2306.00988.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!--
       <a href="https://github.com/MrGiovanni/ContinualLearning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://pages.jh.edu/yliu538/Continual-Learning-for-Abdominal-Multi-Organ-and-Tumor-Segmentation/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      -->
       <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
       <strong> <i style="color:#e74d3c">Early Accept</i></strong>
     </div>
