@@ -10,10 +10,6 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2023-2024 academic job market, looking for faculty positions in CS, CSE, ECE, IEOR, etc., related to Artificial Intelligence, Computer Vision, and Machine Learning. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong>
 
-<!--
-<strong style="color:#e74d3c; font-weight:600">I am looking for a postdoc or research scientist position in the US and EU. I would appreciate a ping if you see a job I might fit.</strong>
--->
-
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
@@ -22,7 +18,4 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 {% include_relative _includes/services.md %}
 
-## Contact
-**Address:** [3400 North Charles Street, Baltimore, MD 21218-2625](https://www.google.com/maps/place/Malone+Hall,+3400+N+Charles+St,+Baltimore,+MD+21218/@39.3262085,-76.6253679,17z/data=!3m1!4b1!4m6!3m5!1s0x89c804de59b4d18d:0x2d92398f0946a9ad!8m2!3d39.3262044!4d-76.6208832!16s%2Fg%2F11b6g45l_1?coh=164777&entry=tt)
-<br>
-**Office Location:** 248 Malone Hall &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Phone:** (857) 209-8688
+{% include_relative _includes/contact.md %}
