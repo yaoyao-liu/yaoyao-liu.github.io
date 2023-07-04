@@ -1,10 +1,10 @@
 ## Invited Talks
 
-<h4 style="margin:0 10px 0;">Learning from Imperfect Data: Continual Learning and Few-shot Learning.</h4>
+<h4 style="margin:0 10px 0;">Learning from Imperfect Data: Incremental Learning and Few-shot Learning.</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://sites.google.com/view/visionseminar"><autocolor>Vision and Graphics Seminar, Massachusetts Institute of Technology, April 2023.</autocolor></a></li>
-  <li><a href="https://vision.cs.illinois.edu/vision_website/"><autocolor>External Speaker Series, University of Illinois Urbana-Champaign, April 2023.</autocolor></a></li>
+  <li><a href="https://calendars.illinois.edu/detail/2568?eventId=33456212"><autocolor>External Speaker Series, University of Illinois Urbana-Champaign, April 2023.</autocolor></a></li>
   <li><a href="https://vigr.cs.columbia.edu/vigr_seminar.html"><autocolor>VIGR Seminar, Columbia University, March 2023.</autocolor></a></li>
   <li>Computational Cognition, Vision, and Learning Lab, Johns Hopkins University, January 2023.</li>
   <li>Visual Geometry Group (VGG), University of Oxford, November 2022.</li>
