@@ -1,0 +1,8 @@
+{% for link in site.data.navigation.main %}
+  {% if link.right %}
+    <a class="right" href="{{ link.url }}">{{ link.title }}</a>
+    {% else %}
+    <a href="{{ link.url }}">{{ link.title }}</a>
+  {% endif %}
+{% endfor %}
+

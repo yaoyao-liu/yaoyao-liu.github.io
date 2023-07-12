@@ -30,6 +30,8 @@
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/pub.css">
+    <link rel="stylesheet" href="./assets/css/nav.css">
+
 
     <link rel="stylesheet" type="text/css" media="screen" href="./assets/mpii_files/mpi-inf.css">
     <script src="./assets/js/github-stars.js"></script>
@@ -48,6 +50,8 @@
 
   </head>
   <body>
+    
+     <!--
     {% if site.enable_hopkins_logo %}
     <lightonly>
       <div id="head1o2">
@@ -55,10 +59,35 @@
           
       <a href="https://cs.jhu.edu"><img style=" margin-bottom:10pt;margin-top:-13pt;margin-left:17%;" width="245" src="./assets/img/university-logo-small-horizontal-white-156eae9527.svg"></a>
       
+      <a class="nav" href="#home">Home</a>
+      <a class="nav" href="#news">News</a>
+      <a class="nav" href="#contact">Contact</a>
+      <a class="nav" href="#about">About</a>
+
       </div>
       </div>
       </lightonly>
     {% endif %}
+    -->
+    
+    
+    <div class="topnav">
+
+      <img width="245" src="./assets/img/university-logo-small-horizontal-white-156eae9527.svg">
+
+      {% include nav.html %}
+
+      <!--
+      <a class="right" href="#contact">Contact</a>
+      <a href="#services">Services</a>
+      <a href="#invited-talks">Talks</a>
+      <a href="#teaching">Teaching</a>
+      <a href="#publications">Publications</a>
+      <a href="#news">News</a>
+      <a href="#about-me">About Me</a>
+      -->
+    </div>
+    
 
     <script src="./assets/js/vanilla-back-to-top.min.js"></script>
     <script>addBackToTop({

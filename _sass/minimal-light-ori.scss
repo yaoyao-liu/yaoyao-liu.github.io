@@ -6,9 +6,14 @@ body { background-color: #fff; padding: 0px; font: 16.0px/1.5 Crimson Pro, serif
 
 .social-icons a { display: inline-block; height: 2.4rem; width: 2.4rem; background-color: transparent; color: #002D72 !important; border-radius: 100%; text-align: center; font-size: 1.15rem; line-height: 2.5rem; margin-right: 1rem; }
 
+@media (prefers-color-scheme: dark) { .social-icons a { color: #3eb7f0 !important; } }
+
 .social-icons a:last-child { margin-right: 0; }
 
 .social-icons a:hover { background-color: white; color: black; transform: scale(1.2); }
+
+/* .social-icons a:after { content: ''; display: block; margin: 0px; height: 1px; width: 0px; background: transparent; transition: width .5s ease, background-color .5s ease; } .social-icons a:hover:after { width: 100%; background: #337ab7; } */
+@media (prefers-color-scheme: dark) { .social-icons a:last-child { margin-right: 0; } .social-icons a:hover { background-color: #20212b; color: black; transform: scale(1.2); } /* .social-icons a:after { content: ''; display: block; margin: 0px; height: 1px; width: 0px; background: transparent; transition: width .5s ease, background-color .5s ease; } .social-icons a:hover:after { width: 100%; background: #a0b0ff; } */ }
 
 .icon-button { background-color: white; border-radius: 3.6rem; cursor: pointer; display: inline-block; font-size: 2.0rem; height: 3.6rem; line-height: 3.6rem; margin: 0 5px; position: relative; text-align: center; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; width: 3.6rem; }
 
@@ -48,6 +53,8 @@ education { font-weight: 500; font-size: 115%; }
 
 papertitle { font-weight: 600; font-size: 100%; }
 
+@media (prefers-color-scheme: dark) { body { background-color: #20212b; color: #dadbdf; } autocolor { color: #dadbdf; } lightonly { visibility: hidden; } darkonly { visibility: visible; } papertitle { color: #eeeff0; } }
+
 .image { border-radius: 0.35em; border: 0; display: inline-block; position: relative; }
 
 .image:before { -moz-transition: opacity 0.2s ease-in-out; -webkit-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; border-radius: 0.35em; content: ''; display: block; height: 100%; left: 0; opacity: 0.5; position: absolute; top: 0; width: 100%; }
@@ -66,6 +73,8 @@ h1 { font-weight: 500; color: #002D72; margin: 0 0 20px; }
 
 h2 { color: #002D72; font-weight: 500; margin: 2px 0px 15px; font-size: 157%; }
 
+@media (prefers-color-scheme: dark) { h1, h3, h4, h5, h6 { color: #3eb7f0; } h2 { color: #3eb7f0; } }
+
 p, ul, ol, table, pre, dl { margin: 0 0 20px; }
 
 h1, h2, h3 { line-height: 1.1; }
@@ -75,6 +84,8 @@ h1 { font-size: 28px; }
 a { color: #39c; text-decoration: none; }
 
 a:hover { color: #069; }
+
+@media (prefers-color-scheme: dark) { a { color: #3eb7f0; } }
 
 a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
 
@@ -96,6 +107,8 @@ dt { color: #444; font-weight: 500; }
 
 th { color: #444; }
 
+@media (prefers-color-scheme: dark) { th { color: #3eb7f0; } dt { color: #3eb7f0; } }
+
 img { max-width: 100%; }
 
 header { width: 232px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; padding-top: 5.5em; text-align: center; }
@@ -115,6 +128,8 @@ header ul a:hover { color: #999; }
 header ul a:active { background-color: #f0f0f0; }
 
 strong { color: #222; font-weight: 500; }
+
+@media (prefers-color-scheme: dark) { strong { color: #eeeff0; } }
 
 header ul li + li + li { border-right: none; width: 89px; }
 
