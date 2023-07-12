@@ -10,7 +10,7 @@
   .topnav img {
     margin-bottom:-17.5pt;
     margin-top:-16.5pt;
-    margin-left:17%;
+    margin-left:30%;
   }
   
   /* Style the links inside the navigation bar */
@@ -31,54 +31,76 @@
   
   /* Add a color to the active/current link */
   .topnav a.right {
-    margin-right:17%;
+    margin-right:30%;
   }
 
-  @media print, screen and (max-width: 1100px) { 
+  @media print, screen and (max-width: 1000px) { 
 
     .topnav img {
-        margin-left:0px;
+        margin-left:3%;
+      }
+
+    .topnav a.right {
+        margin-right:3%;
       }
 
     .topnav a {
-        padding: 18px 3px;
+        padding: 18px 5px;
     }
 
+   }
+
+   @media print, screen and (max-width: 1200px) and (min-width: 1001px) { 
+
+    .topnav img {
+        margin-left:6%;
+      }
     .topnav a.right {
-        margin-right:0px;
+        margin-right:6%;
       }
 
    }
 
-   @media print, screen and (max-width: 1200px) { 
+   @media print, screen and (max-width: 1400px) and (min-width: 1201px) { 
 
     .topnav img {
-        margin-left:7%;
+        margin-left:12%;
       }
     .topnav a.right {
-        margin-right:7%;
+        margin-right:12%;
       }
 
    }
 
-   @media print, screen and (max-width: 1400px) { 
+   @media print, screen and (max-width: 1600px) and (min-width: 1401px) { 
 
     .topnav img {
-        margin-left:10%;
+        margin-left:16%;
       }
     .topnav a.right {
-        margin-right:10%;
+        margin-right:16%;
       }
 
    }
 
-   @media print, screen and (max-width: 1600px) { 
+   @media print, screen and (max-width: 1800px) and (min-width: 1601px) { 
 
     .topnav img {
-        margin-left:14%;
+        margin-left:19%;
       }
     .topnav a.right {
-        margin-right:14%;
+        margin-right:19%;
+      }
+
+   }
+
+   @media print, screen and (max-width: 2000px) and (min-width: 1801px) { 
+
+    .topnav img {
+        margin-left:22%;
+      }
+    .topnav a.right {
+        margin-right:22%;
       }
 
    }
