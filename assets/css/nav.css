@@ -137,7 +137,10 @@
       }
 
       .topnav a.icon {
+        color: white;
         display: block;
+        padding: 10px 16px;
+        font-size: 17px;
         position: absolute;
         float: right;
         right: 0;

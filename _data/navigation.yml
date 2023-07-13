@@ -2,23 +2,23 @@
 main:
 
   - title: "Contact"
-    url: ./index.html#contact 
+    url: ./#contact 
     right: true 
 
   - title: "Services"
-    url: ./index.html#services
+    url: ./#services
 
   - title: "Talks"
-    url: ./index.html#invited-talks
+    url: ./#invited-talks
 
   - title: "Teaching"
-    url: ./index.html#teaching
+    url: ./#teaching
 
   - title: "Publications"
-    url: ./index.html#publications
+    url: ./#publications
 
   - title: "News"
-    url: ./index.html#news
+    url: ./#news
 
-  - title: "About Me"
-    url: ./index.html#about-me
+  - title: "Bio"
+    url: ./#about-me
