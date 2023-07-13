@@ -1,4 +1,6 @@
-## News
+<h1 id="news"></h1>
+
+<h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
 <li><strong>[Aug. 2023]</strong> I will give an <b>in-person</b> talk at <a href="https://engineering.purdue.edu/ChanGroup/comp_imaging_seminar.html">Purdue Computational Imaging Seminar</a>.</li>

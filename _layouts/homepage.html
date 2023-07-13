@@ -36,6 +36,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="./assets/mpii_files/mpi-inf.css">
     <script src="./assets/js/github-stars.js"></script>
     <script type="text/javascript" src="./assets/js/jquery.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <script type="text/javascript">
       function toggle_vis(id) {
@@ -44,6 +45,17 @@
               e.style.display = 'inline';
           else
               e.style.display = 'none';
+      }
+   </script>
+
+   <script>
+      function myFunction() {
+      var x = document.getElementById("myLinks");
+      if (x.style.display === "block") {
+        x.style.display = "none";
+      } else {
+        x.style.display = "block";
+      }
       }
    </script>
    
@@ -73,10 +85,16 @@
     
     <div class="topnav">
 
-      <img width="245" src="./assets/img/university-logo-small-horizontal-white-156eae9527.svg">
+      <a href="https://www.jhu.edu/"><img width="190" src="./assets/img/university-logo-small-horizontal-white-156eae9527.svg"></a>
 
+      <div id="myLinks">
       {% include nav.html %}
+      </div>
 
+      <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
       <!--
       <a class="right" href="#contact">Contact</a>
       <a href="#services">Services</a>

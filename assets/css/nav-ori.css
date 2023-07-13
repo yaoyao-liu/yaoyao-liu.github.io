@@ -7,33 +7,24 @@
     width:100%;
   }
 
-
-  .topnav #myLinks {
-    display: inline;
-  }
-
-.topnav a.icon {
-    display: none;
-}
-
   .topnav img {
-    margin-bottom:-16.5pt;
-    margin-top:-12.5pt;
+    margin-bottom:-17.5pt;
+    margin-top:-16.5pt;
     margin-left:30%;
   }
   
   /* Style the links inside the navigation bar */
-  .topnav a.normal {
+  .topnav a {
     float: right;
     color: #f2f2f2;
     text-align: center;
-    padding: 10px 9px;
+    padding: 18px 9px;
     text-decoration: none;
     font-size: 17px;
   }
   
   /* Change the color of links on hover */
-  .topnav a.normal:hover {
+  .topnav a:hover {
     background-color: #ddd;
     color: black;
   }
@@ -53,8 +44,8 @@
         margin-right:3%;
       }
 
-    .topnav a.normal {
-        padding: 10px 5px;
+    .topnav a {
+        padding: 18px 5px;
     }
 
    }
@@ -79,8 +70,7 @@
         margin-right:12%;
       }
 
-      }
-
+   }
 
    @media print, screen and (max-width: 1600px) and (min-width: 1401px) { 
 
@@ -116,44 +106,8 @@
    }
 
   
-   @media print, screen and (max-width: 480px) { 
-    .topnav #myLinks {
-        display: none;
-      }
-   }
+   @media print, screen and (max-width: 480px) { .topnav { visibility: hidden; } .topnav { visibility: hidden; } }
 
-   @media print, screen and (max-width: 960px) { 
-    .topnav #myLinks {
-        display: none;
-      }
-
-      .topnav a.normal {
-        color: white;
-        float: none;
-        padding: 14px 16px;
-        text-decoration: none;
-        font-size: 17px;
-        display: block;
-      }
-
-      .topnav a.icon {
-        display: block;
-        position: absolute;
-        float: right;
-        right: 0;
-        top: 0;
-        margin-right:5%;
-      }
-
-      .topnav a.right {
-        color: white;
-        float: none;
-        padding: 14px 16px;
-        text-decoration: none;
-        font-size: 17px;
-        display: block;
-        margin-right:0;
-      }
-   }
+   @media print, screen and (max-width: 960px) { .topnav { visibility: hidden; } .topnav { visibility: hidden; } }
    
 
