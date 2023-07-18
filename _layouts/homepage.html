@@ -63,47 +63,18 @@
   </head>
   <body>
     
-     <!--
-    {% if site.enable_hopkins_logo %}
-    <lightonly>
-      <div id="head1o2">
-      <div id="myheader" style="BACKGROUND:#002D72 ;MARGIN: 0px auto; height: 67px;">
-          
-      <a href="https://cs.jhu.edu"><img style=" margin-bottom:10pt;margin-top:-13pt;margin-left:17%;" width="245" src="./assets/img/university-logo-small-horizontal-white-156eae9527.svg"></a>
-      
-      <a class="nav" href="#home">Home</a>
-      <a class="nav" href="#news">News</a>
-      <a class="nav" href="#contact">Contact</a>
-      <a class="nav" href="#about">About</a>
-
-      </div>
-      </div>
-      </lightonly>
-    {% endif %}
-    -->
-    
-    
     <div class="topnav">
 
-      <a href="https://www.jhu.edu/"><img width="190" src="./assets/img/university-logo-small-horizontal-white-156eae9527.svg"></a>
+      <a href="{{ site.affiliation_link }}"><img width="190" src="{{ site.affiliation_logo }}"></a>
 
       <div id="myLinks">
       {% include nav.html %}
       </div>
 
-      <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">
         <i class="fa fa-bars"></i>
       </a>
-      <!--
-      <a class="right" href="#contact">Contact</a>
-      <a href="#services">Services</a>
-      <a href="#invited-talks">Talks</a>
-      <a href="#teaching">Teaching</a>
-      <a href="#publications">Publications</a>
-      <a href="#news">News</a>
-      <a href="#about-me">About Me</a>
-      -->
+      
     </div>
     
 
