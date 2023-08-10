@@ -45,7 +45,7 @@ main:
     pdf: https://arxiv.org/pdf/2301.05032.pdf
     code: https://github.com/yaoyao-liu/online-hyperparameter-optimization/
     page: https://class-il.mpi-inf.mpg.de/online-hyperparameter-optimization/
-    bibtex: https://bib.yliu.me/AAAI23.txt
+    bibtex: https://dblp.uni-trier.de/rec/conf/aaai/0001LSS23.html?view=bibtex
     notes: Oral Presentation
     image: https://img.yliu.me/teaser/OnlineHyperparameters.png
 
