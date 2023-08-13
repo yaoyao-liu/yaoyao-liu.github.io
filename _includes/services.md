@@ -12,6 +12,7 @@
 <h4 style="margin:0 10px 0;">Area Chairs</h4>
 
 <ul style="margin:0 0 5px;">
+    <li><a href="http://cvpr.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024</autocolor></a></li>
   <li><a href="https://bmvc2023.org/"><autocolor>The British Machine Vision Conference (BMVC) 2023</autocolor></a></li>
   <li><a href="https://aistats.org/aistats2023/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2023</autocolor></a></li>
   <li><a href="https://www.auai.org/uai2023/"><autocolor>The Conference on Uncertainty in Artificial Intelligence (UAI) 2023</autocolor></a></li>
@@ -32,7 +33,7 @@
   <li><a href="https://neurips.cc/Conferences/2023"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2020-2023</autocolor></a></li>
   <li><a href="https://icml.cc/Conferences/2022"><autocolor>International Conference on Machine Learning (ICML) 2021-2023</autocolor></a></li>
   <li><a href="https://iclr.cc/Conferences/2023"><autocolor>International Conference on Learning Representations (ICLR) 2022-2023</autocolor></a></li>
-  <li><a href="https://aaai.org/Conferences/AAAI-23/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2021-2023</autocolor></a></li>
+  <li><a href="https://aaai.org/Conferences/AAAI-23/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2021-2024</autocolor></a></li>
   <li><a href="https://ijcai-23.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) 2021-2023</autocolor></a></li>
   <li><a href="https://2022.acmmm.org/"><autocolor>ACM International Conference on Multimedia (MM) 2021-2023</autocolor></a></li>  
   <!--
