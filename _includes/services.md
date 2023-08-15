@@ -14,7 +14,7 @@
 <ul style="margin:0 0 5px;">
   <li><a href="http://cvpr.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024</autocolor></a></li>
   <li><a href="https://iclr.cc/Conferences/2024"><autocolor>International Conference on Learning Representations (ICLR) 2024</autocolor></a></li>
-  <li><a href="https://aistats.org/aistats2024/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2023 and 2024</autocolor></a></li>
+  <li><a href="https://aistats.org/aistats2024/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2023-2024</autocolor></a></li>
   <li><a href="https://bmvc2023.org/"><autocolor>The British Machine Vision Conference (BMVC) 2023</autocolor></a></li>
   <li><a href="https://www.auai.org/uai2023/"><autocolor>The Conference on Uncertainty in Artificial Intelligence (UAI) 2023</autocolor></a></li>
 </ul>
