@@ -25,7 +25,7 @@ main:
     pdf: https://www.robots.ox.ac.uk/~vgg/publications/2023/Liu23/liu23.pdf
     code: https://github.com/yaoyao-liu/CL-DETR
     page: https://lyy.mpi-inf.mpg.de/CL-DETR/
-    bibtex: https://bib.yliu.me/CVPR23a.txt
+    bibtex: https://dblp.uni-trier.de/rec/conf/cvpr/0001SV023.html?view=bibtex
     image: https://img.yliu.me/teaser/cvpr23_1.png
 
   - title: Class-Incremental Exemplar Compression for Class-Incremental Learning
@@ -35,7 +35,7 @@ main:
     pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_Class-Incremental_Exemplar_Compression_for_Class-Incremental_Learning_CVPR_2023_paper.pdf
     code: https://github.com/xfflzl/CIM-CIL
     page: https://class-il.mpi-inf.mpg.de/CIM/
-    bibtex: https://bib.yliu.me/CVPR23b.txt
+    bibtex: https://dblp.uni-trier.de/rec/conf/cvpr/Luo0SS23.html?view=bibtex
     image: https://img.yliu.me/teaser/cvpr23_2.png
 
   - title: Online Hyperparameter Optimization for Class-Incremental Learning
