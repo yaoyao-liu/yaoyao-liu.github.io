@@ -18,6 +18,7 @@ enable_hopkins_logo: true
 enable_last_update: false
 
 # Links
+link_type: text #text/icon
 google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
 cv_link: https://pages.jh.edu/yliu538/files/Yaoyao_Liu_Curriculum_Vitae.pdf
 github_link: https://github.com/yaoyao-liu/
