@@ -14,8 +14,8 @@
   <li><a href="https://ccvl.jhu.edu/"><autocolor>Computational Cognition, Vision, and Learning Lab, Johns Hopkins University, January 2023.</autocolor></a></li>
   <li><a href="https://www.robots.ox.ac.uk/~vgg/"><autocolor>Visual Geometry Group (VGG), University of Oxford, November 2022.</autocolor></a></li>
   <li><a href="https://fvl.fudan.edu.cn/"><autocolor>Fudan Vision and Learning Laboratory, Fudan University, September 2022.</autocolor></a></li>
-  <li><a href="https://www.nextcenter.org/"><autocolor>NExT++ Research Center, National University of Singapore, Singapore, April 2022.</autocolor></a></li>
-  <li>Singapore Management University, Singapore, September 2020.</li>
+  <li><a href="https://www.nextcenter.org/"><autocolor>NExT++ Research Center, National University of Singapore, April 2022.</autocolor></a></li>
+  <li>Singapore Management University, September 2020.</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Meta-transfer Learning for Few-shot Learning.</h4>
@@ -27,11 +27,11 @@
 <h4 style="margin:0 10px 0;">Learning to Self-train for Semi-supervised Few-shot Classification.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>NeurIPS Official Meetups, Beijing, December 2019.</li>
+  <li>NeurIPS Official Meetups in Beijing, December 2019.</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Multi-class Incremental Learning.</h4>
 
 <ul style="margin:0 0 20px;">
-  <li>Nanyang Technological University, Singapore, July 2019.</li>
+  <li>Nanyang Technological University, July 2019.</li>
 </ul>
