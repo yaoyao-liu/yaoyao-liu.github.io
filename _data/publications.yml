@@ -1,7 +1,7 @@
 main:
 
   - title: Adding 3D Geometry Control to Diffusion Models
-    authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Xiaoding Yuan, Angtian Wang, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> (corresponding author), Alan Yuille
+    authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Xiaoding Yuan, Angtian Wang, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     conference_short: Preprint
     conference: Under review.
     pdf: https://arxiv.org/pdf/2306.08103.pdf
@@ -9,7 +9,7 @@ main:
     image: https://img.yliu.me/teaser/dst.png
 
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> (corresponding author), Zongwei Zhou<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Zongwei Zhou<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
@@ -50,7 +50,7 @@ main:
     image: https://img.yliu.me/teaser/OnlineHyperparameters.png
 
   - title: Meta-Transfer Learning through Hard Tasks
-    authors: Qianru Sun*, <strong>Yaoyao Liu*</strong> (equal contribution), Zhaozheng Chen, Tat-Seng Chua, Bernt Schiele
+    authors: Qianru Sun*, <strong>Yaoyao Liu*</strong>, Zhaozheng Chen, Tat-Seng Chua, Bernt Schiele <br> (* Equal contribution)
     conference_short: TPAMI
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, Volume 44, Number 3, 2022.
     pdf: https://lyy.mpi-inf.mpg.de/preprints/Meta_Transfer_Learning_through_Hard_Tasks.pdf
