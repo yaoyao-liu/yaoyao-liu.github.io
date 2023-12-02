@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Dec. 2023]</strong> I will serve as an Area Chair of <a href="https://eccv2024.ecva.net/">ECCV 2024</a>.</li>
 <li><strong>[Oct. 2023]</strong> I gave a talk on continual learning at <a href="https://bair.berkeley.edu/">BAIR, UC Berkeley</a>. </li>
 <li><strong>[Aug. 2023]</strong> I will serve as an Area Chair of <a href="https://cvpr.thecvf.com/">CVPR 2024</a>, <a href="https://iclr.cc/">ICLR 2024</a>, and <a href="https://aistats.org/aistats2024/">AISTATS 2024</a>.</li>
 <li><strong>[Aug. 2023]</strong> I will give a talk at <a href="https://engineering.purdue.edu/ChanGroup/comp_imaging_seminar.html">Purdue Computational Imaging Seminar</a>.</li>
