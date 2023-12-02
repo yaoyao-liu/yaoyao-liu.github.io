@@ -12,6 +12,7 @@
 <h4 style="margin:0 10px 0;">Area Chairs</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://eccv2024.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2024</autocolor></a></li>
   <li><a href="http://cvpr.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024</autocolor></a></li>
   <li><a href="https://iclr.cc/Conferences/2024"><autocolor>International Conference on Learning Representations (ICLR) 2024</autocolor></a></li>
   <li><a href="https://aistats.org/aistats2024/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2023-2024</autocolor></a></li>
