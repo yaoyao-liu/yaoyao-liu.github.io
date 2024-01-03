@@ -8,6 +8,14 @@ main:
     bibtex: https://bib.yliu.me/arXiv23_1.txt
     image: https://img.yliu.me/teaser/dst.png
 
+  - title: Prompt-Based Exemplar Super-Compression and Regeneration for Class-Incremental Learning
+    authors: Ruxiao Duan, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Jieneng Chen, Adam Kortylewski, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+    conference_short: Preprint
+    conference: Under review.
+    pdf: https://arxiv.org/pdf/2311.18266.pdf
+    bibtex: https://dblp.uni-trier.de/rec/journals/corr/abs-2311-18266.html?view=bibtex
+    image: https://img.yliu.me/arxiv_23_2.png.png
+
   - title: Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos
     authors: <strong>Yaoyao Liu</strong>, ZYingying Li, Bernt Schiele, and Qianru Sun
     conference_short: WACV
