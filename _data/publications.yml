@@ -14,7 +14,7 @@ main:
     conference: Under review.
     pdf: https://arxiv.org/pdf/2311.18266.pdf
     bibtex: https://dblp.uni-trier.de/rec/journals/corr/abs-2311-18266.html?view=bibtex
-    image: https://img.yliu.me/arxiv_23_2.png.png
+    image: https://img.yliu.me/arxiv_23_2.png
 
   - title: Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos
     authors: <strong>Yaoyao Liu</strong>, Yingying Li, Bernt Schiele, and Qianru Sun
