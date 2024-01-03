@@ -17,7 +17,7 @@ main:
     image: https://img.yliu.me/arxiv_23_2.png.png
 
   - title: Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos
-    authors: <strong>Yaoyao Liu</strong>, ZYingying Li, Bernt Schiele, and Qianru Sun
+    authors: <strong>Yaoyao Liu</strong>, Yingying Li, Bernt Schiele, and Qianru Sun
     conference_short: WACV
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024.
     pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Liu_Wakening_Past_Concepts_Without_Past_Data_Class-Incremental_Learning_From_Online_WACV_2024_paper.pdf
