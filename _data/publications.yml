@@ -8,6 +8,15 @@ main:
     bibtex: https://bib.yliu.me/arXiv23_1.txt
     image: https://img.yliu.me/teaser/dst.png
 
+  - title: Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos
+    authors: <strong>Yaoyao Liu</strong>, ZYingying Li, Bernt Schiele, and Qianru Sun
+    conference_short: WACV
+    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024.
+    pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Liu_Wakening_Past_Concepts_Without_Past_Data_Class-Incremental_Learning_From_Online_WACV_2024_paper.pdf
+    code: https://github.com/yaoyao-liu/online-placebos
+    bibtex: https://bib.yliu.me/WACV2024.txt
+    image: https://img.yliu.me/placebos_wacv24.png
+
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Zongwei Zhou<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
     conference_short: MICCAI
