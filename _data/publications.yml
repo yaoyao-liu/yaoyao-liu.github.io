@@ -14,7 +14,17 @@ main:
     conference: Under review.
     pdf: https://arxiv.org/pdf/2311.18266.pdf
     bibtex: https://dblp.uni-trier.de/rec/journals/corr/abs-2311-18266.html?view=bibtex
+    code: https://github.com/KerryDRX/ESCORT
     image: https://img.yliu.me/arxiv_23_2.png
+
+  - title: Continual Adversarial Defense
+    authors: Qian Wang, <strong>Yaoyao Liu</strong>, Hefei Ling, Yingwei Li, Qihao Liu, Ping Li, Jiazhong Chen, Alan Yuille, Ning Yu
+    conference_short: Preprint
+    conference: Under review.
+    pdf: https://arxiv.org/pdf/2312.09481.pdf
+    bibtex: https://bib.yliu.me/arXiv_2023_3.txt
+    code: https://github.com/cc13qq/CAD
+    image: https://img.yliu.me/arxiv_CAD.png
 
   - title: "Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos"
     authors: <strong>Yaoyao Liu</strong>, Yingying Li, Bernt Schiele, and Qianru Sun
