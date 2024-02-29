@@ -142,7 +142,7 @@ main:
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://dblp.org/rec/conf/cvpr/LiuSLSS20.html?view=bibtex
     notes: Oral Presentation
     image: https://img.yliu.me/teaser/mnemonics.png
 
