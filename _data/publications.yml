@@ -1,10 +1,12 @@
 main:
 
   - title: Generating Images with 3D Annotations Using Diffusion Models
-    authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Xiaoding Yuan, Angtian Wang, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+    authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Angtian Wang, Xiaoding Yuan, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2306.08103.pdf
+    pdf: https://openreview.net/pdf?id=XlkN11Xj6J
+    code: https://github.com/wufeim/DST3D
+    page: https://ccvl.jhu.edu/3D-DST/
     bibtex: https://bib.yliu.me/arXiv23_1.txt
     image: https://img.yliu.me/teaser/dst.png
     notes: Spotlight
