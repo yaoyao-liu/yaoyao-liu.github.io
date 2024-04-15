@@ -18,7 +18,7 @@
   <li><a href="https://iclr.cc/Conferences/2024"><autocolor>International Conference on Learning Representations (ICLR) 2024</autocolor></a></li>
   <li><a href="https://aistats.org/aistats2024/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2023-2024</autocolor></a></li>
   <li><a href="https://www.auai.org/uai2024/"><autocolor>The Conference on Uncertainty in Artificial Intelligence (UAI) 2023-2024</autocolor></a></li>
-  <li><a href="https://2022.acmmm.org/"><autocolor>ACM International Conference on Multimedia (MM) 2024</autocolor></a></li>  
+  <li><a href="https://2024.acmmm.org/"><autocolor>ACM International Conference on Multimedia (MM) 2024</autocolor></a></li>  
   <li><a href="https://bmvc2023.org/"><autocolor>The British Machine Vision Conference (BMVC) 2023</autocolor></a></li>
 </ul>
 
