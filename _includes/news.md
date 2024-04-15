@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Apr. 2024]</strong> I will serve as an Area Chair of <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> and <a href="https://2024.acmmm.org/">ACM MM 2024</a>.</li>
 <li><strong>[Jan. 2024]</strong> Our paper about <a href="https://arxiv.org/pdf/2306.08103.pdf">diffusion models</a> is accepted to <a href="https://iclr.cc/Conferences/2024/">ICLR 2024</a>.</li>
 <li><strong>[Dec. 2023]</strong> I will serve as an Area Chair of <a href="https://eccv2024.ecva.net/">ECCV 2024</a> and <a href="https://www.auai.org/uai2024/">UAI 2024</a>.</li>
 <li><strong>[Oct. 2023]</strong> I gave a talk on continual learning at <a href="https://bair.berkeley.edu/">BAIR, UC Berkeley</a>. </li>
