@@ -10,7 +10,9 @@ I am currently a postdoctoral fellow in the Department of Computer Science at [J
 
 My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical imaging**.
 
+<!--
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2023-2024 academic job market, looking for faculty positions in CS, CSE, ECE, IEOR, etc., related to Artificial Intelligence, Computer Vision, and Machine Learning. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong>
+-->
 
 {% include_relative _includes/news.md %}
 
