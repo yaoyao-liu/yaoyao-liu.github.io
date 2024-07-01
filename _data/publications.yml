@@ -1,6 +1,6 @@
 main:
 
-  - title: iNeMo: Incremental Neural Mesh Models for Robust Class-Incremental Learning
+  - title: "iNeMo: Incremental Neural Mesh Models for Robust Class-Incremental Learning"
     authors: Tom Fischer, <strong>Yaoyao Liu</strong>, Artur Jesslen, Noor Ahmed, Prakhar Kaushik, Angtian Wang, Alan Yuille, Adam Kortylewski, Eddy Ilg
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
