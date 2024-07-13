@@ -6,6 +6,6 @@
 <br />
 <strong>Office Location:</strong> Malone Hall 248
 <br />
-<strong>Email:</strong> <email>yliu538 (at) jhu.edu</email>
+<strong>Email:</strong> <email>yyliu (at) cs.jhu.edu</email>
 <br />
 <strong>Phone:</strong> (857) 209-8688</p>
