@@ -58,13 +58,4 @@
   <li><a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
   <li><a href="https://dl.acm.org/journal/tomm"><autocolor>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/medical-image-analysis"><autocolor>Medical Image Analysis (MedIA)</autocolor></a></li>
-  <!--
-  <li><a href="https://www.journals.elsevier.com/neural-networks"><autocolor>Neural Networks</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/10994"><autocolor>Machine Learning</autocolor></a></li>
-  <li><a href="https://www.journals.elsevier.com/information-processing-and-management"><autocolor>Information Processing and Management</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11063"><autocolor>Neural Processing Letters</autocolor></a></li>
-  <li><a href="https://link.springer.com/journal/11042"><autocolor>Multimedia Tools and Applications</autocolor></a></li>
-  <li><a href="https://ieeeaccess.ieee.org/"><autocolor>IEEE Access</autocolor></a></li>
-  <li><a href="http://cjc.ict.ac.cn/"><autocolor>Chinese Journal of Computers</autocolor></a></li>
-  -->
 </ul>
