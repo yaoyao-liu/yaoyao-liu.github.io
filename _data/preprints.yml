@@ -1,0 +1,45 @@
+main:
+
+  - title: "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
+    authors: Wufei Ma, Guanning Zeng, Guofeng Zhang, Qihao Liu, Letian Zhang, Adam Kortylewski, <strong>Yaoyao Liu</strong>, Alan Yuille
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://arxiv.org/pdf/2406.09613
+    bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
+    code: https://github.com/wufeim/imagenet3d_exp
+    image: https://img.yliu.me/teaser/imagenet3d.png
+
+  - title: "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting"
+    authors: Yuanhao Cai, Zihao Xiao, Yixun Liang, Minghan Qin, Yulun Zhang, Xiaokang Yang, <strong>Yaoyao Liu</strong>, Alan Yuille
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://arxiv.org/pdf/2405.15125
+    bibtex: https://dblp.org/rec/journals/corr/abs-2405-15125.html?view=bibtex
+    code: https://github.com/caiyuanhao1998/HDR-GS
+    image: https://img.yliu.me/teaser/hdr-gs.png
+
+  - title: "Learning A Category-level Object Pose Estimator without Pose Annotations"
+    authors: Fengrui Tian, <strong>Yaoyao Liu</strong>, Alan Yuille, Adam Kortylewski, Yueqi Duan, Shaoyi Du, Angtian Wang
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://arxiv.org/pdf/2404.05626
+    bibtex: https://dblp.org/rec/journals/corr/abs-2404-05626.html?view=bibtex
+    image: https://img.yliu.me/teaser/pose_estimator_wo_pose_overview.png
+
+  - title: Prompt-Based Exemplar Super-Compression and Regeneration for Class-Incremental Learning
+    authors: Ruxiao Duan, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Jieneng Chen, Adam Kortylewski, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://arxiv.org/pdf/2311.18266.pdf
+    bibtex: https://dblp.org/rec/journals/corr/abs-2311-18266.html?view=bibtex
+    code: https://github.com/KerryDRX/ESCORT
+    image: https://img.yliu.me/arxiv_23_2.png
+
+  - title: Continual Adversarial Defense
+    authors: Qian Wang, <strong>Yaoyao Liu</strong>, Hefei Ling, Yingwei Li, Qihao Liu, Ping Li, Jiazhong Chen, Alan Yuille, Ning Yu
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://arxiv.org/pdf/2312.09481.pdf
+    bibtex: https://dblp.org/rec/journals/corr/abs-2312-09481.html?view=bibtex
+    code: https://github.com/cc13qq/CAD
+    image: https://img.yliu.me/arxiv_CAD.png
