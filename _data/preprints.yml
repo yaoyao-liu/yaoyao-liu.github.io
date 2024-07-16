@@ -27,7 +27,7 @@ main:
     image: https://img.yliu.me/teaser/pose_estimator_wo_pose_overview.png
 
   - title: Prompt-Based Exemplar Super-Compression and Regeneration for Class-Incremental Learning
-    authors: Ruxiao Duan, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Jieneng Chen, Adam Kortylewski, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+    authors: Ruxiao Duan, <strong>Yaoyao Liu</strong>, Jieneng Chen, Adam Kortylewski, Alan Yuille
     conference_short: Preprint
     conference: Preprint.
     pdf: https://arxiv.org/pdf/2311.18266.pdf
