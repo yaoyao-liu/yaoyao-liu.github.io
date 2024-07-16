@@ -18,6 +18,8 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/preprints.md %}
+
 {% include_relative _includes/teaching.md %}
 
 {% include_relative _includes/talks.md %}
