@@ -7,6 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2406.09613
     bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
     code: https://github.com/wufeim/imagenet3d_exp
+    data: https://github.com/wufeim/imagenet3d
     image: https://img.yliu.me/teaser/imagenet3d.png
 
   - title: "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting"
