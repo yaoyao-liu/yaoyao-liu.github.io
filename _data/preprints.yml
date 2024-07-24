@@ -6,7 +6,7 @@ main:
     conference: Preprint.
     pdf: https://arxiv.org/pdf/2406.09613
     bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
-    code: https://github.com/wufeim/imagenet3d
+    data: https://github.com/wufeim/imagenet3d
     page: https://imagenet3d.github.io/
     image: https://img.yliu.me/teaser/imagenet3d.png
 
