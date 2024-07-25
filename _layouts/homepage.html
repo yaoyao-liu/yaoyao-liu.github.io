@@ -46,13 +46,24 @@
    <script>
       function myFunction() {
       var x = document.getElementById("myLinks");
-      if (x.style.display === "block") {
+      if (x.style.display === "inline") {
         x.style.display = "none";
       } else {
-        x.style.display = "block";
+        x.style.display = "inline";
+        
       }
       }
+
+      function reverseLinks() {
+    var container = document.getElementById("myLinks");
+    var links = Array.from(container.getElementsByTagName('a'));
+    container.innerHTML = '';
+    for (var i = links.length - 1; i >= 0; i--) {
+      container.appendChild(links[i]);
+    }
+  }
    </script>
+   
    
 
   </head>
@@ -66,7 +77,7 @@
       {% include navigation.md %}
       </div>
 
-      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <a href="javascript:void(0);" class="icon" onclick="myFunction();reverseLinks()">
         <i class="fa fa-bars"></i>
       </a>
       
