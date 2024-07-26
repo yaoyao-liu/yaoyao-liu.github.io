@@ -1,3 +1,23 @@
+.topnav {
+  height: 50px; /* Adjust this value to your desired navbar height */
+}
+
+.topnav a {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.topnav img {
+  height: 100%;
+  width: auto;
+  object-fit: contain;
+  margin: 0; /* Remove existing margins */
+}
+
+
+
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #002D72;
