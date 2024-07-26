@@ -1,4 +1,4 @@
-# Shenglingma@github.io
+# shenglingma.github.io
 
 This is the latest version of my homepage's source code. Feel free to use and share.
 <br />
