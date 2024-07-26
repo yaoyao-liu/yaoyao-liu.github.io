@@ -17,6 +17,8 @@
 }
 
   .topnav img {
+    height: 100%; /* This will make the image height match the topnav height */
+    width: auto;
     margin-bottom:-16.5pt;
     margin-top:-12.5pt;
     margin-left:30%;
