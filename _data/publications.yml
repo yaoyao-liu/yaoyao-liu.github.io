@@ -1,4 +1,4 @@
-main:
+    main:
 
   - title: "Circulating tumor DNA predicts venous thromboembolism in patients with cancer"
     authors: <strong>Shengling Ma*</strong>, Jun Y. Jiang*, Rockbum Kim, Elizabeth Chiang, Joyce Wan Theng Tiong, Justine Ryu, Danielle Guffey, Raka Bandyo, Heidi Dowst, Kaitlin N Swinnerton, Nathanael R Fillmore, Jennifer La, Ang Li
@@ -10,23 +10,23 @@ main:
     
   - title: "Large language models for chart review: How machine learning can accelerate clinical research today"
     authors: Barbara D. Lam, Peiqi Wang, <strong>Shengling Ma</strong>, Omid Jafari, Iuliia Kovalenko, Steve Horng, Ang Li
-    conference_short: ICLR
-    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
-    pdf: https://openreview.net/pdf?id=XlkN11Xj6J
-    code: https://github.com/wufeim/DST3D
-    page: https://ccvl.jhu.edu/3D-DST/
-    bibtex: https://bib.yliu.me/arXiv23_1.txt
-    image: https://img.yliu.me/teaser/dst.png
-    notes: Spotlight
+    #conference_short: ICLR
+    #conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
+    #pdf: https://openreview.net/pdf?id=XlkN11Xj6J
+    #code: https://github.com/wufeim/DST3D
+    #page: https://ccvl.jhu.edu/3D-DST/
+    #bibtex: https://bib.yliu.me/arXiv23_1.txt
+    #image: https://img.yliu.me/teaser/dst.png
+    #notes: Spotlight
 
-  - title: "Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos"
-    authors: <strong>Yaoyao Liu</strong>, Yingying Li, Bernt Schiele, and Qianru Sun
-    conference_short: WACV
-    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024.
+  - title: "Thrombosis risk prediction in lymphoma patients: A multi-institutional, retrospective model development and validation study"
+    authors: <strong>Shengling Ma</strong>, Jennifer La, Kaitlin N Swinnerton, Danielle Guffey, Raka Bandyo, Giordana De Las Pozas, Katy Hanzelka, Xiangjun Xiao, Cristhiam M Rojas-Hernandez, Christopher I Amos, Vipul Chitalia, Katya Ravid, Kelly W Merriman, Christopher R Flowers, Nathanael Fillmore, Ang Li
+    #conference_short: WACV
+    conference: American Journal of Hematology <strong>(AJH)</strong>, 2024.
     pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Liu_Wakening_Past_Concepts_Without_Past_Data_Class-Incremental_Learning_From_Online_WACV_2024_paper.pdf
-    code: https://github.com/yaoyao-liu/online-placebos
-    bibtex: https://dblp.org/rec/conf/wacv/0001LSS24.html?view=bibtex
-    image: https://img.yliu.me/placebos_wacv24.png
+    code: https://github.com/shenglingma/Lymph-CAT-calculator
+    #bibtex: https://dblp.org/rec/conf/wacv/0001LSS24.html?view=bibtex
+    #image: https://img.yliu.me/placebos_wacv24.png
 
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Zongwei Zhou<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
