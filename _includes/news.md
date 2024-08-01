@@ -3,9 +3,9 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Jul. 2024]</strong> Our paper about <a href="https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf">robust class-incremental learning</a> is accepted to <a href="https://eccv2024.ecva.net/">ECCV 2024</a>.</li>
-<li><strong>[Apr. 2024]</strong> I will serve as an Area Chair of <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> and <a href="https://2024.acmmm.org/">ACM MM 2024</a>.</li>
-<li><strong>[Jan. 2024]</strong> Our paper about <a href="https://arxiv.org/pdf/2306.08103.pdf">diffusion models</a> is accepted to <a href="https://iclr.cc/Conferences/2024/">ICLR 2024</a>.</li>
+<li><strong>[Jul. 2024]</strong> I visited my co-mentors Dr. Rushad Patell and Dr. Barbara Lam at BIDMC with THSNA travel-to-a-mentor award<<a href="https://thsna.org/web/mentor.php"></a>.</li>
+<li><strong>[Jul. 2024]</strong> Our paper about <a href="./#publications">cancer racial disparity</a> was accepted to <a href="https://link.springer.com/article/10.1007/s40615-024-02077-y">Journal of Racial and Ethnic Health Disparities 2024</a>.
+<li><strong>[Mar. 2024]</strong> Our abstract about <a href="https://www.thsna.org/virtual/?page=presentation&session_id=33&presentation_id=291">NLP</a> was accepted to <a href="https://www.thsna.org/2024/">THSNA 2024</a>.</li>
 <li><strong>[Dec. 2023]</strong> I will serve as an Area Chair of <a href="https://eccv2024.ecva.net/">ECCV 2024</a> and <a href="https://www.auai.org/uai2024/">UAI 2024</a>.</li>
 <li><strong>[Oct. 2023]</strong> I gave a talk on continual learning at <a href="https://bair.berkeley.edu/">BAIR, UC Berkeley</a>. </li>
 <li><strong>[Aug. 2023]</strong> I will serve as an Area Chair of <a href="https://cvpr.thecvf.com/">CVPR 2024</a>, <a href="https://iclr.cc/">ICLR 2024</a>, and <a href="https://aistats.org/aistats2024/">AISTATS 2024</a>.</li>
