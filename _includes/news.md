@@ -26,6 +26,4 @@
 <li><strong>[Sep 2023]</strong> Our paper about <a href="https://www.sciencedirect.com/science/article/abs/pii/S0049384823001895">catheter-related deep venous thrombosis</a> is accepted to Thrombosis Research 2023</a>.</li>
 
 
-</div>
-
 </ul>
