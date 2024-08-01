@@ -1,6 +1,6 @@
     main:
 
-  - title: "Circulating tumor DNA predicts venous thromboembolism in patients with cancer"
+  - title: Circulating tumor DNA predicts venous thromboembolism in patients with cancer
     authors: <strong>Shengling Ma*</strong>, Jun Y. Jiang*, Rockbum Kim, Elizabeth Chiang, Joyce Wan Theng Tiong, Justine Ryu, Danielle Guffey, Raka Bandyo, Heidi Dowst, Kaitlin N Swinnerton, Nathanael R Fillmore, Jennifer La, Ang Li
     conference: Journal of Thrombosis and Haemostasis <strong>(JTH)</strong>, 2024. (under review)
     # pdf: https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf
@@ -8,7 +8,7 @@
     # bibtex: https://bib.yliu.me/ECCV24.txt
     image: https://img.yliu.me/teaser/iNeMo.png
     
-  - title: "Large language models for chart review: How machine learning can accelerate clinical research today"
+  - title: Large language models for chart review: How machine learning can accelerate clinical research today
     authors: Barbara D. Lam, Peiqi Wang, <strong>Shengling Ma</strong>, Omid Jafari, Iuliia Kovalenko, Steve Horng, Ang Li
     #conference_short: ICLR
     #conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
