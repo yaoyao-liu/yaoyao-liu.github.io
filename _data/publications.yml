@@ -1,13 +1,12 @@
 main:
 
-  - title: "iNeMo: Incremental Neural Mesh Models for Robust Class-Incremental Learning"
-    authors: Tom Fischer, <strong>Yaoyao Liu</strong>, Artur Jesslen, Noor Ahmed, Prakhar Kaushik, Angtian Wang, Alan Yuille, Adam Kortylewski, Eddy Ilg
-    conference_short: ECCV
+  - title: "Circulating tumor DNA predicts venous thromboembolism in patients with cancer"
+    authors: <strong>Shengling Ma</strong>, Shengling Ma, Jun Y. Jiang, Rockbum Kim, Elizabeth Chiang, Joyce Wan Theng Tiong, Justine Ryu, Danielle Guffey, Raka Bandyo, Heidi Dowst, Kaitlin N Swinnerton, Nathanael R Fillmore, Jennifer La, Ang Li
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf
     code: https://github.com/Fischer-Tom/iNeMo
-    bibtex: https://bib.yliu.me/ECCV24.txt
-    image: https://img.yliu.me/teaser/iNeMo.png
+    # bibtex: https://bib.yliu.me/ECCV24.txt
+    # image: https://img.yliu.me/teaser/iNeMo.png
     
   - title: Generating Images with 3D Annotations Using Diffusion Models
     authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Angtian Wang, Xiaoding Yuan, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
