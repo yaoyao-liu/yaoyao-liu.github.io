@@ -2,10 +2,8 @@
 
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<p><strong>Address:</strong> <a href="https://www.google.com/maps/place/Malone+Hall,+3400+N+Charles+St,+Baltimore,+MD+21218/@39.3262085,-76.6253679,17z/data=!3m1!4b1!4m6!3m5!1s0x89c804de59b4d18d:0x2d92398f0946a9ad!8m2!3d39.3262044!4d-76.6208832!16s%2Fg%2F11b6g45l_1?coh=164777&amp;entry=tt">3400 N. Charles St., Baltimore, MD 21218-2625</a>
+<p><strong>Address:</strong> <a href="https://www.google.com/maps/place/Baylor+College+of+Medicine/@29.7105286,-95.3988163,17z/data=!3m1!4b1!4m6!3m5!1s0x8640c07650d4bf6f:0xbb615085334e838e!8m2!3d29.7105286!4d-95.3962414!16zL20vMDI5ZzJn?entry=ttu">1 Baylor Plz, Houston, TX 77030</a>
 <br />
-<strong>Office Location:</strong> Malone Hall 248
+<strong>Email:</strong> <email>shengling.ma (at) bcm.edu</email>
 <br />
-<strong>Email:</strong> <email>yyliu (at) cs.jhu.edu</email>
-<br />
-<strong>Phone:</strong> (857) 209-8688</p>
+#<strong>Phone:</strong> (857) 209-8688</p>
