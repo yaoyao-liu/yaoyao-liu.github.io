@@ -6,7 +6,7 @@
     # pdf: https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf
     # code: https://github.com/Fischer-Tom/iNeMo
     # bibtex: https://bib.yliu.me/ECCV24.txt
-    # image: https://img.yliu.me/teaser/iNeMo.png
+    image: https://img.yliu.me/teaser/iNeMo.png
     
   - title: "Large language models for chart review: How machine learning can accelerate clinical research today"
     authors: Barbara D. Lam, Peiqi Wang, <strong>Shengling Ma</strong>, Omid Jafari, Iuliia Kovalenko, Steve Horng, Ang Li
