@@ -1,33 +1,33 @@
 # Basic Information 
-title: Yaoyao Liu
+title: Shengling Ma
 position: Postdoctoral Fellow
-affiliation: Johns Hopkins University
-affiliation_link: https://cs.jhu.edu/
-affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
-email: yyliu (at) cs.jhu.edu
-email2: yliu538 (at) jhu.edu
+affiliation: Baylor College of Medicine
+affiliation_link: https://www.bcm.edu/
+affiliation_logo: ./assets/img/favicon-dark.png
+email: shengling.ma@bcm.edu
+email2: sma7@bidmc.harvard.edu
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://www.cs.jhu.edu/~yyliu/
-description: Yaoyao Liu is a postdoctoral fellow at Johns Hopkins University. His research lies in meta-learning, incremental learning, and image generation.
+keywords: shengling ma, ma shengling, shenglingma, mashengling
+canonical: https://minimal-light-theme.yliu.me/
+description: Shengling Ma is a postdoctoral fellow at Baylor College of Medicine. Her research lies in clinical informatics, machine learning, and epidemiology.
 
 # The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+google_scholar: https://scholar.google.com/citations?user=47yvri4AAAAJ&hl
+github_link: https://github.com/shenglingma
+linkedin: https://www.linkedin.com/in/slm3
+twitter: https://twitter.com/shenglingma/
 
 # Images 
-avatar: https://img.yliu.me/avatar.jpg
-favicon: ./assets/img/favicon.png
+avatar: ./assets/img/avatar_ash.jpeg
+favicon: ./assets/img/favicon.JPG
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes

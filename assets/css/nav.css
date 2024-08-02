@@ -17,8 +17,10 @@
 }
 
   .topnav img {
-    margin-bottom:-16.5pt;
-    margin-top:-12.5pt;
+    /* margin-bottom:-12.5pt;*/
+    margin-bottom: auto; /* Ensure there is no negative bottom margin */
+    margin-top: 5pt; /* Increase this value slightly to move the image down a bit */
+  
     margin-left:30%;
   }
   
