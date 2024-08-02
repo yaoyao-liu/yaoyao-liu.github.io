@@ -69,7 +69,7 @@
     notes: Oral Presentation
     image: https://img.yliu.me/teaser/OnlineHyperparameters.png
 
-  - title: Meta-Transfer Learning through Hard Tasks
+  - title: lynn-Transfer Learning through Hard Tasks
     authors: Qianru Sun*, <strong>Yaoyao Liu*</strong>, Zhaozheng Chen, Tat-Seng Chua, Bernt Schiele <br> (* Equal contribution)
     conference_short: TPAMI
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, Volume 44, Number 3, 2022.
