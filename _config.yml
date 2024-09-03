@@ -1,16 +1,15 @@
 # Basic Information 
 title: Yaoyao Liu
-position: Postdoctoral Fellow
-affiliation: Johns Hopkins University
+position: Assistant Professor
+affiliation: University of Illinois Urbana-Champaign
 affiliation_link: https://cs.jhu.edu/
-affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
-email: yyliu (at) cs.jhu.edu
-email2: yliu538 (at) jhu.edu
+affiliation_logo: ./assets/img/illinois.svg
+email: lyy (at) illinois.edu
 
 # Search Engine Optimization (SEO)
 keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://www.cs.jhu.edu/~yyliu/
-description: Yaoyao Liu is a postdoctoral fellow at Johns Hopkins University. His research lies in meta-learning, incremental learning, and image generation.
+canonical: https://yaoyaoliu.web.illinois.edu/
+description: Yaoyao Liu is an assistant professor at UIUC. His research lies in meta-learning, incremental learning, and image generation.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: true
@@ -27,8 +26,8 @@ twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
 avatar: https://img.yliu.me/avatar.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/favicon.ico
+favicon_dark: ./assets/img/favicon.ico
 
 # Footnotes
 footnote: Feel free to use my website's source code.

@@ -7,9 +7,37 @@
 >
 
 <url>
- <loc>https://https://www.cs.jhu.edu/~yyliu/</loc>
+ <loc>https://yaoyaoliu.web.illinois.edu/</loc>
  <priority>1.0</priority>
- <lastmod>2020-08-26</lastmod>
+ <lastmod>2024-08-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://yaoyaoliu.web.illinois.edu/publications.html</loc>
+ <priority>1.0</priority>
+ <lastmod>2024-08-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://yaoyaoliu.web.illinois.edu/teaching.html</loc>
+ <priority>1.0</priority>
+ <lastmod>2024-08-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://yaoyaoliu.web.illinois.edu/talks.html</loc>
+ <priority>1.0</priority>
+ <lastmod>2024-08-01</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://yaoyaoliu.web.illinois.edu/services.html</loc>
+ <priority>1.0</priority>
+ <lastmod>2024-08-01</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 
