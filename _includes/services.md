@@ -12,11 +12,11 @@
 <h4 style="margin:0 10px 0;">Area Chairs</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="http://cvpr.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024-2025</autocolor></a></li>
   <li><a href="https://eccv2024.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2024</autocolor></a></li>
-  <li><a href="http://cvpr.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024</autocolor></a></li>
   <li><a href="https://neurips.cc/Conferences/2024"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
   <li><a href="https://iclr.cc/Conferences/2025"><autocolor>International Conference on Learning Representations (ICLR) 2024-2025</autocolor></a></li>
-  <li><a href="https://aistats.org/aistats2024/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2023-2024</autocolor></a></li>
+  <li><a href="https://aistats.org/aistats2025/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2023-2025</autocolor></a></li>
   <li><a href="https://www.auai.org/uai2024/"><autocolor>The Conference on Uncertainty in Artificial Intelligence (UAI) 2023-2024</autocolor></a></li>
   <li><a href="https://2024.acmmm.org/"><autocolor>ACM International Conference on Multimedia (MM) 2024</autocolor></a></li>  
   <li><a href="https://bmvc2024.org/"><autocolor>The British Machine Vision Conference (BMVC) 2023-2024</autocolor></a></li>
