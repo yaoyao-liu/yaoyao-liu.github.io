@@ -2,12 +2,6 @@
 
 <h2 style="margin: 60px 0px 10px;">Invited Talks</h2>
 
-<h4 style="margin:0 10px 0;">Learning with 3D Generative Models.</h4>
-
-<ul style="margin:0 0 5px;">
-  <li>University of Michigan, September 2024.</li>
-</ul>
-
 <h4 style="margin:0 10px 0;">Generating Images with 3D Annotations Using Diffusion Models.</h4>
 
 <ul style="margin:0 0 5px;">
