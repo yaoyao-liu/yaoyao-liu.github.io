@@ -1,5 +1,7 @@
 ---
 layout: normal
+title: Biography
+permalink: /biography/
 ---
 
 <h1 id="biography"></h1>

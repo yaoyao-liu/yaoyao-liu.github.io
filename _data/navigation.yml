@@ -1,17 +1,17 @@
 main:
 
   - title: "Services"
-    url: ./services.html
+    url: /services/
     right: true 
 
   - title: "Talks"
-    url: ./talks.html
+    url: /talks/
 
   #- title: "Teaching"
   #  url: ./teaching.html
 
   - title: "Publications"
-    url: ./publications.html
+    url: /publications/
 
   - title: "Home"
-    url: ./
+    url: /
