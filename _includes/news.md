@@ -17,7 +17,7 @@
 <li><strong>[Mar. 2023]</strong> I will participate in the <a href="https://cvpr2023.thecvf.com/Conferences/2023/CallForDoctoralConsortium">CVPR 2023 Doctoral Consortium</a> with a travel award. </li>
 <li><strong>[Mar. 2023]</strong> I gave a talk on continual learning at <a href="https://vigr.cs.columbia.edu/vigr_seminar.html">Columbia VIGR Seminar</a>. </li>
 <li><strong>[Mar. 2023]</strong> I gave a talk on few-shot learning at EPFL. </li>
-<li><strong>[Feb. 2023]</strong> Two papers about <a href="./#publications">continual learning</a> are accepted to <a href="http://cvpr2023.thecvf.com/">CVPR 2023</a>.</li>
+<li><strong>[Feb. 2023]</strong> Two papers about <a href="./publications/">continual learning</a> are accepted to <a href="http://cvpr2023.thecvf.com/">CVPR 2023</a>.</li>
   
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
