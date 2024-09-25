@@ -10,15 +10,6 @@ main:
     page: https://imagenet3d.github.io/
     image: https://img.yliu.me/teaser/imagenet3d.png
 
-  - title: "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting"
-    authors: Yuanhao Cai, Zihao Xiao, Yixun Liang, Minghan Qin, Yulun Zhang, Xiaokang Yang, <strong>Yaoyao Liu</strong>, Alan Yuille
-    conference_short: Preprint
-    conference: Preprint.
-    pdf: https://arxiv.org/pdf/2405.15125
-    bibtex: https://dblp.org/rec/journals/corr/abs-2405-15125.html?view=bibtex
-    code: https://github.com/caiyuanhao1998/HDR-GS
-    image: https://img.yliu.me/teaser/hdr-gs.png
-
   - title: "Learning a Category-level Object Pose Estimator without Pose Annotations"
     authors: Fengrui Tian, <strong>Yaoyao Liu</strong>, Alan Yuille, Adam Kortylewski, Yueqi Duan, Shaoyi Du, Angtian Wang
     conference_short: Preprint

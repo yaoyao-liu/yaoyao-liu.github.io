@@ -1,5 +1,14 @@
 main:
 
+  - title: "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting"
+    authors: Yuanhao Cai, Zihao Xiao, Yixun Liang, Minghan Qin, Yulun Zhang, Xiaokang Yang, <strong>Yaoyao Liu</strong>, Alan Yuille
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2405.15125
+    bibtex: https://dblp.org/rec/journals/corr/abs-2405-15125.html?view=bibtex
+    code: https://github.com/caiyuanhao1998/HDR-GS
+    image: https://img.yliu.me/teaser/hdr-gs.png
+
   - title: "iNeMo: Incremental Neural Mesh Models for Robust Class-Incremental Learning"
     authors: Tom Fischer, <strong>Yaoyao Liu</strong>, Artur Jesslen, Noor Ahmed, Prakhar Kaushik, Angtian Wang, Alan Yuille, Adam Kortylewski, Eddy Ilg
     conference_short: ECCV
