@@ -7,7 +7,7 @@ permalink: /openings/
 <h2 style="margin: 60px 0px 10px;">Openings</h2>
 
 
-Thanks for your interest in joining my research group and collaborating with me. I am actively seeking self-motivated **PhD students**, **independent study students**, and **visiting students**. Candidates with a strong background in **computer vision**, **machine learning**, or **artificial intelligence** are highly encouraged to apply.
+Thanks for your interest in joining my research group and collaborating with me. I am actively seeking self-motivated **PhD students**, **visiting students**, and **independent study students**. Candidates with a strong background in **computer vision**, **machine learning**, or **artificial intelligence** are highly encouraged to apply.
 
 
 ### Prospective PhD students
@@ -19,13 +19,9 @@ I have multiple PhD student openings in [Information Sciences](https://ischool.i
 
 If you are interested, please send me an email with your **CV** and **transcripts**. Please remember to submit your formal application through the [official system](https://ischool.illinois.edu/degrees-programs/graduate/phd-information-sciences/apply) as well.
 
-### Independent study
+### Visiting students and independent study students 
 
-If you are an undergraduate or graduate student at the University of Illinois Urbana-Champaign and are interested in working with me, feel free to email me or stop by my office. Additionally, if you'd like to chat about life, career plans, or research ideas, please don’t hesitate to contact me to schedule a meeting.
-
-### Visiting students
-
-I always welcome visiting students for collaboration across a wide range of research areas. If you are an undergraduate, master's, or PhD student at another university and are interested in collaborating with me, please feel free to reach out.
+I always welcome visiting students and independent study students for collaboration across a wide range of research areas. If you are an undergraduate, master's, or PhD student and are interested in collaborating with me, please feel free to reach out.
 
 ### Contact information
 
