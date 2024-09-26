@@ -1,25 +1,31 @@
 ---
-layout: normal
+layout: simple
 title: Openings
 permalink: /openings/
 ---
 
 <h2 style="margin: 60px 0px 10px;">Openings</h2>
 
-Thank you for your interest in my lab! I have multiple openings for **PhD students**, **visiting students**, and **independent study projects**. I am happy to host students who are excited to join the exciting endeavor of computer vision and machine learning.
+
+Thanks for your interest in joining my research group and collaborating with me. I am actively seeking self-motivated **PhD students**, **independent study students**, and **visiting students**. Candidates with a strong background in **computer vision**, **machine learning**, or **artificial intelligence** are highly encouraged to apply.
+
 
 ### Prospective PhD students
 
-I am actively recruiting multiple PhD students in [Information Sciences](https://ischool.illinois.edu/degrees-programs/graduate/phd-information-sciences/apply) for Spring and Fall 2025 in the following research areas:
+I have multiple PhD student openings in [Information Sciences](https://ischool.illinois.edu/degrees-programs/graduate/phd-information-sciences/) for Spring and Fall 2025 in the following research areas:
 
-- **Continual learning and few-shot learning**: [\[Sun et al., 2019\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf), [\[Liu et al., 2020\]](https://arxiv.org/pdf/2002.10211.pdf), [\[Liu et al., 2021\]](https://arxiv.org/pdf/2010.05063), [\[Liu et al., 2023\]](https://arxiv.org/pdf/2301.05032), [\[Fischer et al., 2024\]](https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf), etc.
-- **3D generative models**: [\[Ma et al., 2023\]](https://openreview.net/pdf?id=XlkN11Xj6J), [\[Fischer et al., 2024\]](https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf), [\[Ma et al., 2024\]](https://arxiv.org/pdf/2406.09613), etc.
+- **Continual learning and few-shot learning:** learning deep neural networks efficiently on limited labeled data and continual data streams. Related papers: [\[Sun et al., 2019\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf), [\[Liu et al., 2020\]](https://arxiv.org/pdf/2002.10211.pdf), [\[Liu et al., 2021\]](https://arxiv.org/pdf/2010.05063), [\[Liu et al., 2023\]](https://arxiv.org/pdf/2301.05032), [\[Fischer et al., 2024\]](https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf), etc.
+- **3D generative models**: developing 3D-aware generative models to better understand the underlying 3D structures in 2D images. Related papers: [\[Ma et al., 2023\]](https://openreview.net/pdf?id=XlkN11Xj6J), [\[Fischer et al., 2024\]](https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf), [\[Ma et al., 2024\]](https://arxiv.org/pdf/2406.09613), etc.
 
-If you are interested, please send me an email with your **CV** and **transcripts**.
+If you are interested, please send me an email with your **CV** and **transcripts**. Please remember to submit your formal application through the [official system](https://ischool.illinois.edu/degrees-programs/graduate/phd-information-sciences/apply) as well.
 
-### Visiting students and independent study
+### Independent study
 
-If you are an undergraduate or graduate student at the University of Illinois Urbana-Champaign and are interested in working with me, feel free to send me an email.
+If you are an undergraduate or graduate student at the University of Illinois Urbana-Champaign and are interested in working with me, feel free to email me or stop by my office. Additionally, if you'd like to chat about life, career plans, or research ideas, please don’t hesitate to contact me to schedule a meeting.
+
+### Visiting students
+
+I always welcome visiting students for collaboration across a wide range of research areas. If you are an undergraduate, master's, or PhD student at another university and are interested in collaborating with me, please feel free to reach out.
 
 ### Contact information
 
