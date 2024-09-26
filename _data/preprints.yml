@@ -1,15 +1,5 @@
 main:
 
-  - title: "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
-    authors: Wufei Ma, Guanning Zeng, Guofeng Zhang, Qihao Liu, Letian Zhang, Adam Kortylewski, <strong>Yaoyao Liu</strong>, Alan Yuille
-    conference_short: Preprint
-    conference: Preprint.
-    pdf: https://arxiv.org/pdf/2406.09613
-    bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
-    data: https://github.com/wufeim/imagenet3d
-    page: https://imagenet3d.github.io/
-    image: https://img.yliu.me/teaser/imagenet3d.png
-
   - title: "Learning a Category-level Object Pose Estimator without Pose Annotations"
     authors: Fengrui Tian, <strong>Yaoyao Liu</strong>, Alan Yuille, Adam Kortylewski, Yueqi Duan, Shaoyi Du, Angtian Wang
     conference_short: Preprint
