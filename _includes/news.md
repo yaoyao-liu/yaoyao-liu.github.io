@@ -1,7 +1,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Feb. 2023]</strong> Two papers about <a href="./publications/">3D</a> are accepted to <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> and its D&B track.</li>
+<li><strong>[Oct. 2024]</strong> Honored to receive the <a href="https://www.ecva.net/index.php#awards">ECVA PhD Award</a>!</li>
+<li><strong>[Sep. 2024]</strong> Two papers about <a href="./publications/">3D</a> are accepted to <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> and its D&B track.</li>
 <li><strong>[Sep. 2024]</strong> I will serve as an Area Chair of <a href="https://cvpr.thecvf.com/">CVPR 2025</a>, <a href="https://iclr.cc/">ICLR 2025</a>, and <a href="https://aistats.org/aistats2025/">AISTATS 2025</a>.</li>
 <li><strong>[Aug. 2024]</strong> I will serve as a Senior Program Committee Member of <a href="https://aaai.org/conference/aaai/aaai-25/">AAAI 2025</a>.</li>
 <li><strong>[Jul. 2024]</strong> Our paper about <a href="https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf">robust class-incremental learning</a> is accepted to <a href="https://eccv2024.ecva.net/">ECCV 2024</a>.</li>
