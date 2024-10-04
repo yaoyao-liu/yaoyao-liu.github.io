@@ -3,7 +3,7 @@ main:
   - title: "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
     authors: Wufei Ma, Guanning Zeng, Guofeng Zhang, Qihao Liu, Letian Zhang, Adam Kortylewski, <strong>Yaoyao Liu</strong>, Alan Yuille
     conference_short: NeurIPS
-    conference: NeurIPS 2024 Datasets and Benchmarks Track
+    conference: NeurIPS 2024 Datasets and Benchmarks Track.
     pdf: https://arxiv.org/pdf/2406.09613
     bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
     data: https://github.com/wufeim/imagenet3d
