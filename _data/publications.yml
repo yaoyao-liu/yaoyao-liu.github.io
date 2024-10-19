@@ -4,7 +4,7 @@ main:
     authors: Wufei Ma, Guanning Zeng, Guofeng Zhang, Qihao Liu, Letian Zhang, Adam Kortylewski, <strong>Yaoyao Liu</strong>, Alan Yuille
     conference_short: NeurIPS
     conference: NeurIPS 2024 Datasets and Benchmarks Track.
-    pdf: https://arxiv.org/pdf/2406.09613
+    pdf: https://yaoyaoliu.web.illinois.edu/papers/ImageNet3D_Towards_General_Purpose_Object_Level_3D_Understanding.pdf
     bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
     data: https://github.com/wufeim/imagenet3d
     page: https://imagenet3d.github.io/
@@ -25,7 +25,7 @@ main:
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf
     code: https://github.com/Fischer-Tom/iNeMo
-    bibtex: https://bib.yliu.me/ECCV24.txt
+    bibtex: https://dblp.org/rec/journals/corr/abs-2407-09271.html?view=bibtex
     image: https://img.yliu.me/teaser/iNeMo.png
     
   - title: Generating Images with 3D Annotations Using Diffusion Models
@@ -35,7 +35,7 @@ main:
     pdf: https://openreview.net/pdf?id=XlkN11Xj6J
     code: https://github.com/wufeim/DST3D
     page: https://ccvl.jhu.edu/3D-DST/
-    bibtex: https://bib.yliu.me/arXiv23_1.txt
+    bibtex: https://dblp.org/rec/conf/iclr/MaLWWY0X0LDQK0Y24.html?view=bibtex
     image: https://img.yliu.me/teaser/dst.png
     notes: Spotlight
 
