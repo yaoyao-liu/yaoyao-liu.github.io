@@ -5,7 +5,7 @@
 <h4 style="margin:0 10px 0;">Learning with 3D Generative Models.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>Guest Lecture for CSE 290D, University of California, Santa Cruz, October 2024.</li>
+  <li>Guest Lecture for CSE 290D, UC Santa Cruz, October 2024.</li>
   <li>Guest Lecture for EECS 542, University of Michigan, September 2024.</li>
 </ul>
 
@@ -33,7 +33,7 @@
 <h4 style="margin:0 10px 0;">Meta-transfer Learning for Few-shot Learning.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>École Polytechnique Fédérale de Lausann (EPFL), March 2023.</li>
+  <li>Guest Lecture for CS-625, École Polytechnique Fédérale de Lausann, March 2023.</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Learning to Self-train for Semi-supervised Few-shot Classification.</h4>
