@@ -33,7 +33,7 @@
 <h4 style="margin:0 10px 0;">Meta-transfer Learning for Few-shot Learning.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>Guest Lecture for CS-625, École Polytechnique Fédérale de Lausann, March 2023.</li>
+  <li>Guest Lecture for CS-625, École Polytechnique Fédérale de Lausanne, March 2023.</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Learning to Self-train for Semi-supervised Few-shot Classification.</h4>
