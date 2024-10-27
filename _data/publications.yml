@@ -14,7 +14,7 @@ main:
     authors: Yuanhao Cai, Zihao Xiao, Yixun Liang, Minghan Qin, Yulun Zhang, Xiaokang Yang, <strong>Yaoyao Liu</strong>, Alan Yuille
     conference_short: NeurIPS
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2405.15125
+    pdf: https://www.cs.jhu.edu/~alanlab/Pubs24/cai2024hdr-gs.pdf
     bibtex: https://dblp.org/rec/journals/corr/abs-2405-15125.html?view=bibtex
     code: https://github.com/caiyuanhao1998/HDR-GS
     image: https://img.yliu.me/teaser/hdr-gs.png
