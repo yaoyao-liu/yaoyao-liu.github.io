@@ -46,16 +46,19 @@
     <script src="./assets/js/github-stars.js"></script>
     <script type="text/javascript" src="./assets/js/jquery.js"></script>
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
-    
+
     <script type="text/javascript">
-      function toggle_vis(id) {
-          var e = document.getElementById(id);
-          if (e.style.display == 'none')
-              e.style.display = 'inline';
-          else
-              e.style.display = 'none';
+      function toggleVis(link) {
+        var div = document.getElementById('newsmore');
+        if (div.style.display === 'none') {
+          div.style.display = 'block';
+          link.textContent = 'Show less';
+        } else {
+          div.style.display = 'none';
+          link.textContent = 'Show more';
+        }
       }
-   </script>
+    </script>
 
    <script>
       function myFunction() {
