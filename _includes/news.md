@@ -9,6 +9,9 @@
 <li><strong>[Jul. 2024]</strong> Our paper about <a href="https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf">robust class-incremental learning</a> is accepted to <a href="https://eccv2024.ecva.net/">ECCV 2024</a>.</li>
 <li><strong>[Apr. 2024]</strong> I will serve as an Area Chair of <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> and <a href="https://2024.acmmm.org/">ACM MM 2024</a>.</li>
 <li><strong>[Jan. 2024]</strong> Our paper about <a href="https://arxiv.org/pdf/2306.08103.pdf">diffusion models</a> is accepted to <a href="https://iclr.cc/Conferences/2024/">ICLR 2024</a>.</li>
+  
+<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
+<div id="newsmore" style="display:none"> 
 <li><strong>[Dec. 2023]</strong> I will serve as an Area Chair of <a href="https://eccv2024.ecva.net/">ECCV 2024</a> and <a href="https://www.auai.org/uai2024/">UAI 2024</a>.</li>
 <li><strong>[Oct. 2023]</strong> I gave a talk on continual learning at <a href="https://bair.berkeley.edu/">BAIR, UC Berkeley</a>. </li>
 <li><strong>[Aug. 2023]</strong> I will serve as an Area Chair of <a href="https://cvpr.thecvf.com/">CVPR 2024</a>, <a href="https://iclr.cc/">ICLR 2024</a>, and <a href="https://aistats.org/aistats2024/">AISTATS 2024</a>.</li>
@@ -21,9 +24,6 @@
 <li><strong>[Mar. 2023]</strong> I gave a talk on continual learning at <a href="https://vigr.cs.columbia.edu/vigr_seminar.html">Columbia VIGR Seminar</a>. </li>
 <li><strong>[Mar. 2023]</strong> I gave a talk on few-shot learning at EPFL. </li>
 <li><strong>[Feb. 2023]</strong> Two papers about <a href="./publications/">continual learning</a> are accepted to <a href="http://cvpr2023.thecvf.com/">CVPR 2023</a>.</li>
-  
-<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
-<div id="newsmore" style="display:none"> 
   <li><strong>[Dec. 2022]</strong> <a href="https://www.bmvc2023.org">BMVC 2023</a> will be held in Aberdeen, UK, and I will serve as the Website Chair.</li>
   <li><strong>[Nov. 2022]</strong> Our paper about <a href="https://pure.mpg.de/rest/items/item_3478882_1/component/file_3478883/content">class-incremental learning</a> is accepted to <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.</li>
   <li><strong>[Oct. 2022]</strong> I am recognized as a top reviewer for <a href="https://neurips.cc/Conferences/2022/ProgramCommittee">NeurIPS 2022</a>.</li>
