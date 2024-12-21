@@ -3,7 +3,7 @@
 <ul>
 <li><strong>[Dec. 2024]</strong> I will serve as an Area Chair of <a href="https://icml.cc/Conferences/2025">ICML 2025</a> and <a href="https://www.auai.org/uai2025/">UAI 2025</a>.</li>
 <li><strong>[Oct. 2024]</strong> Honored to receive the <a href="https://www.ecva.net/index.php#awards">ECVA PhD Award</a>!</li>
-<li><strong>[Oct. 2024]</strong> I gave a guest lecture on 3D at University of Michigan and UCSC. </li>
+<li><strong>[Oct. 2024]</strong> I gave guest lectures on 3D at UMich and UC Santa Cruz. </li>
 <li><strong>[Sep. 2024]</strong> Two papers about <a href="./publications/">3D</a> are accepted to <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> and its D&B track.</li>
 <li><strong>[Sep. 2024]</strong> I will serve as an Area Chair of <a href="https://cvpr.thecvf.com/">CVPR 2025</a>, <a href="https://iclr.cc/">ICLR 2025</a>, and <a href="https://aistats.org/aistats2025/">AISTATS 2025</a>.</li>
 <li><strong>[Aug. 2024]</strong> I will serve as a Senior Program Committee Member of <a href="https://aaai.org/conference/aaai/aaai-25/">AAAI 2025</a>.</li>
