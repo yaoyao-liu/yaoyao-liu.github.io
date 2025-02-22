@@ -20,6 +20,10 @@ Applications are submitted through an online form: <https://go.ischool.illinois.
 <br>
 The application needs to be submitted before **April 1, 2025**. 
 
+### General Program Information
+<https://ischool.illinois.edu/research/postdoctoral-researchers>
+
+<!--
 ### Research Topics
 
 Recently, I am working in the following research areas. Moreover, I am also happy to discuss other potential research topics within the fields of computer vision, machine learning, and artificial intelligence.
@@ -35,3 +39,4 @@ If you have any questions, please feel free to contact me:
 <strong>Email:</strong> <email><a href="mailto:lyy@illinois.edu">lyy@illinois.edu</a></email>
 <br>
 <strong>Office:</strong> <a href="https://maps.app.goo.gl/sTBLkKCDBaAD81eA9">Room 5125, 614 E. Daniel St., Champaign, IL 61820</a>
+-->
