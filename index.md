@@ -12,7 +12,9 @@ My research lies at the intersection of **computer vision** and **machine learni
 
 Previously, I completed my PhD in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) and my BS in Electronic Information Engineering at [Tianjin University](http://www.tju.edu.cn/english/index.htm). I also spent time at [Johns Hopkins](https://ccvl.jhu.edu/), [Oxford VGG](https://www.robots.ox.ac.uk/~vgg/), and [National University of Singapore](https://www.comp.nus.edu.sg/). My biography is [here](./biography/).
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am actively looking for self-motivated Ph.D. students with interests in computer vision and machine learning. If you are interested, please send me an email. You may see details [here](./openings/).</strong>
+<strong style="color:#e74d3c; font-weight:600">I am actively looking for self-motivated Ph.D. students with interests in computer vision and machine learning. You may see details here: [\[PhD openings\]](./openings/).</strong>
+
+<strong style="color:#e74d3c; font-weight:600">We have postdoc openings through the iSchool Postdoctoral Research Associate Program. The application deadline is April 1, 2025. You may see details here: [\[Postdoc openings\]](./postdoc-openings/).</strong>
 
 {% include_relative _includes/news.md %}
 
