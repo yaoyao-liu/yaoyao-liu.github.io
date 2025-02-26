@@ -1,5 +1,12 @@
 main:
 
+  - title: Meta-Learning Hyperparameters for Foundation Model Adaptation in Remote-Sensing Imagery
+    authors: Zichen Tian, <strong>Yaoyao Liu</strong>, Qianru Sun
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    bibtex: https://bib.yliu.me/CVPR25.txt
+    image: https://img.yliu.me/teaser/CVPR2025.png
+
   - title: "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
     authors: Wufei Ma, Guofeng Zhang, Qihao Liu, Guanning Zeng, Adam Kortylewski, <strong>Yaoyao Liu</strong>, Alan Yuille
     conference_short: NeurIPS
