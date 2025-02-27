@@ -1,8 +1,11 @@
 main:
 
+  - title: "Openings"
+    url: /openings/
+    right: true 
+
   - title: "Teaching"
     url: /teaching/
-    right: true 
 
   - title: "Services"
     url: /services/
