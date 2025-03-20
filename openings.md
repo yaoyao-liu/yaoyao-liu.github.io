@@ -14,7 +14,7 @@ Thanks for your interest in joining my research group and collaborating with me.
 ## Postdocs
 
 
-Thanks for your interest in joining my research group and collaborating with me. I am actively seeking a postdoc through the [iSchool Postdoctoral Research Associate Program](https://ischool.illinois.edu/research/postdoctoral-researchers).
+I am actively seeking a postdoc through the [iSchool Postdoctoral Research Associate Program](https://ischool.illinois.edu/research/postdoctoral-researchers).
 
 #### Guidelines
 - The applicant must have **completed requirements for their Ph.D.** prior to **July 1, 2025**. 
