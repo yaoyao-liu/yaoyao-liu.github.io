@@ -35,8 +35,8 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="./assets/Illinois/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/pub.css">
     <link rel="stylesheet" href="./assets/css/nav.css">
@@ -47,41 +47,38 @@
     <script type="text/javascript" src="./assets/js/jquery.js"></script>
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
 
+    <style>
+      #newsmore {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.4s ease-in-out;
+      }
+      #newsmore.open {
+        max-height: 2000px;
+      }
+    </style>
     <script type="text/javascript">
       function toggleVis(link) {
         var div = document.getElementById('newsmore');
-        if (div.style.display === 'none') {
-          div.style.display = 'block';
-          link.textContent = 'Show less';
-        } else {
-          div.style.display = 'none';
+        if (div.classList.contains('open')) {
+          div.classList.remove('open');
           link.textContent = 'Show more';
+        } else {
+          div.classList.add('open');
+          link.textContent = 'Show less';
         }
       }
     </script>
 
    <script>
       function myFunction() {
-      var x = document.getElementById("myLinks");
-      if (x.style.display === "inline") {
-        x.style.display = "none";
-      } else {
-        x.style.display = "inline";
-        
+        var x = document.getElementById("myLinks");
+        var icon = document.querySelector('.topnav a.icon');
+        x.classList.toggle('open');
+        icon.classList.toggle('active');
       }
-      }
-
-      function reverseLinks() {
-    var container = document.getElementById("myLinks");
-    var links = Array.from(container.getElementsByTagName('a'));
-    container.innerHTML = '';
-    for (var i = links.length - 1; i >= 0; i--) {
-      container.appendChild(links[i]);
-    }
-  }
    </script>
-   
-   
+  
 
   </head>
   <body>
@@ -101,10 +98,6 @@
   
 
   
-    <a class="normal" href="./talks/">Talks</a>
-  
-
-  
     <a class="normal" href="./publications/">Publications</a>
   
 
@@ -116,8 +109,11 @@
 
       </div>
 
-      <a href="javascript:void(0);" class="icon" onclick="myFunction();reverseLinks()">
-        <i class="fa fa-bars"></i>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <span class="icon-wrap">
+          <i class="fa fa-bars icon-bars"></i>
+          <i class="fa fa-xmark icon-xmark"></i>
+        </span>
       </a>
       
     </div>
@@ -156,7 +152,7 @@
         <br>
         
         
-        <a href="https://www.illinois.edu/" rel="noopener"><autocolor>University of Illinois</autocolor></a>
+        <a href="https://www.illinois.edu/" rel="noopener"><autocolor>University of Illinois<br>Urbana-Champaign</autocolor></a>
         <br>
         
         
@@ -196,6 +192,8 @@
           <i class="fab fa-x-twitter"></i>
         </a>
         
+
+        
         </div>
         
         <br>
@@ -207,38 +205,43 @@
 
 <h2 style="margin: 80px 0px 10px;"></h2>
 
-<p>I am an Assistant Professor in the <a href="https://ischool.illinois.edu/">School of Information Sciences</a> at the <a href="https://www.illinois.edu/">University of Illinois Urbana-Champaign</a>. I am also affiliated with the <a href="https://siebelschool.illinois.edu/">Siebel School of Computing and Data Science</a>, the <a href="https://csl.illinois.edu/">Coordinated Science Laboratory</a>, and the <a href="https://www.ncsa.illinois.edu/">National Center for Supercomputing Applications</a>.</p>
+<p>I am an Assistant Professor in the <a href="https://ischool.illinois.edu/">School of Information Sciences</a> and the <a href="https://csl.illinois.edu/">Coordinated Science Laboratory</a> at the <a href="https://www.illinois.edu/">University of Illinois Urbana-Champaign</a>. I am also affiliated with the <a href="https://cs.illinois.edu/">Siebel School of Computing and Data Science</a> (formerly the Department of Computer Science) and the <a href="https://ece.illinois.edu/">Department of Electrical &amp; Computer Engineering</a>.</p>
 
-<p>My research lies at the intersection of <strong>computer vision</strong> and <strong>machine learning</strong> – with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include <strong>continual learning</strong>, <strong>few-shot learning</strong>, <strong>semi-supervised learning</strong>, <strong>generative models</strong>, <strong>3D geometry models</strong>, and <strong>medical imaging</strong>.</p>
+<p>Previously, I received my Ph.D. in Computer Science at <a href="https://www.mpi-inf.mpg.de/">Max Planck Institute for Informatics</a> and my B.S. in Electronic Information Engineering at <a href="https://en.tju.edu.cn/">Tianjin University</a>. I also spent time at <a href="https://ccvl.jhu.edu/">Johns Hopkins</a>, <a href="https://www.robots.ox.ac.uk/~vgg/">Oxford VGG</a>, and <a href="https://www.comp.nus.edu.sg/">National University of Singapore</a>.</p>
 
-<p>Previously, I completed my PhD in Computer Science at <a href="https://www.mpi-inf.mpg.de/">Max Planck Institute for Informatics</a> and my BS in Electronic Information Engineering at <a href="http://www.tju.edu.cn/english/index.htm">Tianjin University</a>. I also spent time at <a href="https://ccvl.jhu.edu/">Johns Hopkins</a>, <a href="https://www.robots.ox.ac.uk/~vgg/">Oxford VGG</a>, and <a href="https://www.comp.nus.edu.sg/">National University of Singapore</a>.</p>
+<p>My research lies at the intersection of <strong>computer vision</strong> and <strong>machine learning</strong>, with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include <strong>continual learning</strong>, <strong>few-shot learning</strong>, <strong>semi-supervised learning</strong>, <strong>generative models</strong>, <strong>3D geometry models</strong>, and <strong>medical image analysis</strong>.</p>
+
+<div style="border: 1px solid #ccc; padding: 11px; background-color: #f9f9f9; color: #333; border-radius: 5px;">
+<strong style="color:#e74d3c;">
+I am actively looking for Ph.D. and M.S. students with strong backgrounds in computer vision and machine learning. You may apply  <a href="https://vision.ischool.illinois.edu/openings/">here</a>. </strong>
+</div>
 
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Feb. 2025]</strong> Our paper about <a href="./publications">meta-learning</a> is accepted to <a href="https://cvpr.thecvf.com/">CVPR 2025</a>.</li>
-<li><strong>[Dec. 2024]</strong> I will serve as an Area Chair of <a href="https://icml.cc/Conferences/2025">ICML 2025</a> and <a href="https://www.auai.org/uai2025/">UAI 2025</a>.</li>
+<li><strong>[Feb. 2026]</strong> I will give a talk on data-efficient learning at <a href="https://cse.ucsd.edu/">UC San Diego</a>.</li>
+<li><strong>[Nov. 2025]</strong> Recognized as a <a href="https://nips.cc/Conferences/2025/ProgramCommittee#top-ac">Top Area Chair</a> at <a href="https://nips.cc/Conferences/2025/">NeurIPS 2025</a>.</li>
+<li><strong>[Nov. 2025]</strong> Selected for the <a href="https://aaai.org/conference/aaai/aaai-26/new-faculty-highlights-program/">AAAI-26 New Faculty Highlights Program</a>.</li>
+<li><strong>[Oct. 2025]</strong> I will give a talk at the <a href="https://mclworkshop25.github.io/mcl-iccv2025/ICCV2025/">Workshop on Multimodal Continual Learning</a>, <a href="https://iccv.thecvf.com/Conferences/2025">ICCV 2025</a>.</li>
+<li><strong>[Sep. 2025]</strong> I gave invited talks on continual learning and 3D at <a href="https://engineering.msu.edu/departments/cse">MSU</a> and <a href="https://cs.uic.edu/">UIC</a>. </li>
+<li><strong>[Aug. 2025]</strong> I will serve as an Editorial Board Member of <a href="https://link.springer.com/journal/11263">IJCV</a>.</li>
+<li><strong>[Jul. 2025]</strong> Our paper about <a href="https://yaoyaoliu.cs.illinois.edu/preprints/Prompt_Based_Exemplar_Super_Compresion_and_Regeneration_for_Class_Incremental_Learing.pdf">continual learning</a> is accepted to <a href="https://bmvc2025.bmva.org/">BMVC 2025</a>.</li>
+<li><strong>[Feb. 2025]</strong> Our paper about <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_Meta-Learning_Hyperparameters_for_Parameter_Efficient_Fine-Tuning_CVPR_2025_paper.pdf">meta-learning</a> is accepted to <a href="https://cvpr.thecvf.com/">CVPR 2025</a>.</li>
 <li><strong>[Oct. 2024]</strong> Honored to receive the <a href="https://www.ecva.net/index.php#awards">ECVA PhD Award</a>!</li>
-<li><strong>[Oct. 2024]</strong> I gave guest lectures on 3D at UMich and UC Santa Cruz. </li>
+<li><strong>[Oct. 2024]</strong> I gave guest lectures on 3D at <a href="https://cse.engin.umich.edu/">UMich</a> and <a href="https://engineering.ucsc.edu/departments/computer-science-and-engineering/">UC Santa Cruz</a>. </li>
 <li><strong>[Sep. 2024]</strong> Two papers about <a href="./publications/">3D</a> are accepted to <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> and its D&amp;B track.</li>
-<li><strong>[Sep. 2024]</strong> I will serve as an Area Chair of <a href="https://cvpr.thecvf.com/">CVPR 2025</a>, <a href="https://iclr.cc/">ICLR 2025</a>, and <a href="https://aistats.org/aistats2025/">AISTATS 2025</a>.</li>
-<li><strong>[Aug. 2024]</strong> I will serve as a Senior Program Committee Member of <a href="https://aaai.org/conference/aaai/aaai-25/">AAAI 2025</a>.</li>
 <li><strong>[Jul. 2024]</strong> Our paper about <a href="https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf">robust class-incremental learning</a> is accepted to <a href="https://eccv2024.ecva.net/">ECCV 2024</a>.</li>
 <li><strong>[Jun. 2024]</strong> I gave a talk on 3D generative models at <a href="https://sites.google.com/view/cvpr24-ac-workshop/">CVPR 2024 Area Chair Workshop</a>. </li>
-<li><strong>[Apr. 2024]</strong> I will serve as an Area Chair of <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> and <a href="https://2024.acmmm.org/">ACM MM 2024</a>.</li>
 <li><strong>[Jan. 2024]</strong> Our paper about <a href="https://arxiv.org/pdf/2306.08103.pdf">diffusion models</a> is accepted to <a href="https://iclr.cc/Conferences/2024/">ICLR 2024</a>.</li>
   
 
 <li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
-<div id="newsmore" style="display:none"> 
-  <li><strong>[Dec. 2023]</strong> I will serve as an Area Chair of <a href="https://eccv2024.ecva.net/">ECCV 2024</a> and <a href="https://www.auai.org/uai2024/">UAI 2024</a>.</li>
+<div id="newsmore">
   <li><strong>[Oct. 2023]</strong> I gave a talk on continual learning at <a href="https://bair.berkeley.edu/">BAIR, UC Berkeley</a>. </li>
-  <li><strong>[Aug. 2023]</strong> I will serve as an Area Chair of <a href="https://cvpr.thecvf.com/">CVPR 2024</a>, <a href="https://iclr.cc/">ICLR 2024</a>, and <a href="https://aistats.org/aistats2024/">AISTATS 2024</a>.</li>
   <li><strong>[Aug. 2023]</strong> I will give a talk at <a href="https://engineering.purdue.edu/ChanGroup/comp_imaging_seminar.html">Purdue Computational Imaging Seminar</a>.</li>
   <li><strong>[May 2023]</strong> Our paper about <a href="https://arxiv.org/pdf/2306.00988.pdf">continual learning</a> is accepted to <a href="https://conferences.miccai.org/2023/en/">MICCAI 2023</a>.</li>
   <li><strong>[Apr. 2023]</strong> I will give a talk on continual learning at <a href="https://calendars.illinois.edu/detail/2568?eventId=33456212">UIUC External Speaker Series</a>.</li>
   <li><strong>[Apr. 2023]</strong> I will give a talk on continual learning at <a href="https://sites.google.com/view/visionseminar">MIT Vision and Graphics Seminar</a>.</li>
-  <li><strong>[Apr. 2023]</strong> I will serve as an Area Chair of <a href="https://www.auai.org/uai2023/">UAI 2023</a> and <a href="https://bmvc2023.rog/">BMVC 2023</a>.</li>
   <li><strong>[Mar. 2023]</strong> I will participate in the <a href="https://cvpr2023.thecvf.com/Conferences/2023/CallForDoctoralConsortium">CVPR 2023 Doctoral Consortium</a> with a travel award. </li>
   <li><strong>[Mar. 2023]</strong> I gave a talk on continual learning at <a href="https://vigr.cs.columbia.edu/vigr_seminar.html">Columbia VIGR Seminar</a>. </li>
   <li><strong>[Mar. 2023]</strong> I gave a talk on few-shot learning at EPFL. </li>
@@ -246,9 +249,7 @@
   <li><strong>[Dec. 2022]</strong> <a href="https://www.bmvc2023.org">BMVC 2023</a> will be held in Aberdeen, UK, and I will serve as the Website Chair.</li>
   <li><strong>[Nov. 2022]</strong> Our paper about <a href="https://pure.mpg.de/rest/items/item_3478882_1/component/file_3478883/content">class-incremental learning</a> is accepted to <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.</li>
   <li><strong>[Oct. 2022]</strong> I am recognized as a top reviewer for <a href="https://neurips.cc/Conferences/2022/ProgramCommittee">NeurIPS 2022</a>.</li>
-  <li><strong>[Aug. 2022]</strong> I will serve as an area chair of <a href="https://aistats.org/aistats2023/">AISTATS 2023</a>.</li>
   <li><strong>[Jun. 2022]</strong> I will serve as a student mentor of <a href="https://sites.google.com/view/cvpr-academy/">the CVPR Academy</a> at <a href="http://cvpr2022.thecvf.com/">CVPR 2022</a>.</li>
-  <li><strong>[Jun. 2022]</strong> I will serve as a website chair of <a href="https://bmvc2022.org/people/organisers/">BMVC 2022</a>, along with <a href="https://yashbhalgat.github.io/">Yash Bhalgat</a>.</li>
   <li><strong>[Sep. 2021]</strong> Our paper about <a href="https://openreview.net/pdf?id=BfPzZSype5M">class-incremental learning</a> is accepted to <a href="https://neurips.cc/Conferences/2021">NeurIPS 2021</a>.</li>
   <li><strong>[Mar. 2021]</strong> Our paper about <a href="https://arxiv.org/pdf/2010.05063.pdf">class-incremental learning</a> is accepted to <a href="http://cvpr2021.thecvf.com/">CVPR 2021</a>.</li>
   <li><strong>[Jul. 2020]</strong> Our paper about <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-58517-4_24.pdf">few-shot learning</a> is accepted to <a href="https://eccv2020.eu/">ECCV 2020</a>.</li>

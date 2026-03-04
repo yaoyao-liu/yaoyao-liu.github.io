@@ -35,8 +35,8 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="./assets/Illinois/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/pub.css">
     <link rel="stylesheet" href="./assets/css/nav.css">
@@ -47,41 +47,38 @@
     <script type="text/javascript" src="./assets/js/jquery.js"></script>
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
 
+    <style>
+      #newsmore {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.4s ease-in-out;
+      }
+      #newsmore.open {
+        max-height: 2000px;
+      }
+    </style>
     <script type="text/javascript">
       function toggleVis(link) {
         var div = document.getElementById('newsmore');
-        if (div.style.display === 'none') {
-          div.style.display = 'block';
-          link.textContent = 'Show less';
-        } else {
-          div.style.display = 'none';
+        if (div.classList.contains('open')) {
+          div.classList.remove('open');
           link.textContent = 'Show more';
+        } else {
+          div.classList.add('open');
+          link.textContent = 'Show less';
         }
       }
     </script>
 
    <script>
       function myFunction() {
-      var x = document.getElementById("myLinks");
-      if (x.style.display === "inline") {
-        x.style.display = "none";
-      } else {
-        x.style.display = "inline";
-        
+        var x = document.getElementById("myLinks");
+        var icon = document.querySelector('.topnav a.icon');
+        x.classList.toggle('open');
+        icon.classList.toggle('active');
       }
-      }
-
-      function reverseLinks() {
-    var container = document.getElementById("myLinks");
-    var links = Array.from(container.getElementsByTagName('a'));
-    container.innerHTML = '';
-    for (var i = links.length - 1; i >= 0; i--) {
-      container.appendChild(links[i]);
-    }
-  }
    </script>
-   
-   
+  
 
   </head>
   <body>
@@ -94,8 +91,11 @@
       {% include navigation-home.md %}
       </div>
 
-      <a href="javascript:void(0);" class="icon" onclick="myFunction();reverseLinks()">
-        <i class="fa fa-bars"></i>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <span class="icon-wrap">
+          <i class="fa fa-bars icon-bars"></i>
+          <i class="fa fa-xmark icon-xmark"></i>
+        </span>
       </a>
       
     </div>
@@ -134,7 +134,7 @@
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>University of Illinois<br>Urbana-Champaign</autocolor></a>
         <br>
         {% endif %}
         {% if site.email %}
@@ -186,6 +186,12 @@
           <i class="fab fa-x-twitter"></i>
         </a>
         {% endif %}
+
+        {% if site.bluesky %}
+        <a style="margin: 0 0 0 0" href="{{ site.bluesky }}">
+          <i class="fab fa-bluesky"></i>
+        </a>
+        {% endif %}
         </div>
         {% endif %}
         <br>
@@ -200,7 +206,7 @@
       {% if site.enable_last_update %}
       <small>Last Update:
             <script>
-              const monthNames = ["January", "Februray", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
+              const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
               ];
               var modiDate = new Date(document.lastModified);
               var showAs = modiDate.getDate() + ". " + monthNames[modiDate.getMonth()] + " " + modiDate.getFullYear();

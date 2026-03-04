@@ -30,8 +30,9 @@
     padding: 10px 9px;
     text-decoration: none;
     font-size: 17px;
+    transition: background-color 0.2s ease, color 0.2s ease;
   }
-  
+
   /* Change the color of links on hover */
   .topnav a.normal:hover {
     background-color: #ddd;
@@ -116,16 +117,18 @@
    }
 
   
-   @media print, screen and (max-width: 480px) { 
+   @media print, screen and (max-width: 960px) {
+
     .topnav #myLinks {
-        display: none;
+        display: flex;
+        flex-direction: column-reverse;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.35s ease-in-out;
       }
-   }
 
-   @media print, screen and (max-width: 960px) { 
-
-    .topnav #myLinks {
-        display: none;
+    .topnav #myLinks.open {
+        max-height: 600px;
       }
 
       .topnav a.normal {
@@ -149,6 +152,41 @@
         margin-right:5%;
       }
 
+      .topnav a.icon .icon-wrap {
+        position: relative;
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+      }
+
+      .topnav a.icon .icon-bars,
+      .topnav a.icon .icon-xmark {
+        position: absolute;
+        top: 0;
+        left: 0;
+        transition: opacity 0.25s ease, transform 0.25s ease;
+      }
+
+      .topnav a.icon .icon-bars {
+        opacity: 1;
+        transform: rotate(0deg);
+      }
+
+      .topnav a.icon .icon-xmark {
+        opacity: 0;
+        transform: rotate(-90deg);
+      }
+
+      .topnav a.icon.active .icon-bars {
+        opacity: 0;
+        transform: rotate(90deg);
+      }
+
+      .topnav a.icon.active .icon-xmark {
+        opacity: 1;
+        transform: rotate(0deg);
+      }
+
       .topnav a.right {
         color: white;
         float: none;
@@ -159,5 +197,3 @@
         margin-right:0;
       }
    }
-   
-
