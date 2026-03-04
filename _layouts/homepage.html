@@ -134,15 +134,11 @@
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>University of Illinois<br>Urbana-Champaign</autocolor></a>
+        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
         {% if site.email %}
         <email>{{ site.email }}</email>
-        {% endif %}
-        {% if site.email2 %}
-        <br>
-        <email>{{ site.email2 }}</email>
         {% endif %}
         
         <br>
