@@ -12,7 +12,7 @@ canonical: https://yaoyaoliu.web.illinois.edu
 description: Yaoyao Liu is an assistant professor at the University of Illinois Urbana-Champaign. His research lies in meta-learning, incremental learning, and image generation.
 
 # The option is used to enable the Illinois template.
-enable_illinois_logo: true
+enable_hopkins_logo: true
 
 # The option is used to show the last update time.
 enable_last_update: false
