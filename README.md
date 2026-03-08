@@ -2,7 +2,7 @@
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/homepage?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/homepage/blob/main/LICENSE)
 
-This is the latest version of my homepage's source code. Feel free to use and share.
+This is the latest version of [my homepage](https://yaoyaoliu.csl.illinois.edu/)'s source code. Feel free to use and share.
 <br />
 For more details, please refer to this repository: <https://github.com/yaoyao-liu/minimal-light>.
 
