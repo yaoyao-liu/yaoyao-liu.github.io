@@ -13,10 +13,10 @@ Previously, I received my Ph.D. in Computer Science at [Max Planck Institute for
 My research lies at the intersection of **computer vision** and **machine learning**, with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical image analysis**.
 
 
-<div style="border: 1px solid #ccc; padding: 11px; background-color: #f9f9f9; color: #333; border-radius: 5px;">
-<strong style="color:#e74d3c;">
-I am actively looking for Ph.D. and M.S. students with strong backgrounds in computer vision and machine learning. You may apply  <a href="https://vision.ischool.illinois.edu/openings/">here</a>. </strong>
+<div style="border-left: 4px solid #FF5F05; padding: 10px 16px; background-color: #fafafa; color: #333; border-radius: 0 4px 4px 0; box-shadow: 0 1px 4px rgba(0,0,0,0.07);">
+<strong style="color:#c0392b;">For prospective students: If you are interested in working with me, please see details <a href="https://vision.ischool.illinois.edu/openings/">here</a>.</strong>
 </div>
+
 
 {% include_relative _includes/news.md %}
 
