@@ -4,6 +4,7 @@
 
 <h4 style="margin:0 10px 0;">Associate Editor</h4>
 
+<!--
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
 </ul>
@@ -29,6 +30,8 @@
   <li><a href="https://aaai.org/Conferences/AAAI-25/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2025</autocolor></a></li>
   <li><a href="https://ijcai-21.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) 2021</autocolor></a></li>
 </ul>
+-->
+
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
