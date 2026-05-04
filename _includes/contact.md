@@ -1,9 +1,10 @@
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-614 E. Daniel St. MC-314
+253 Love Building
+Florida State University
 <br />
-Champaign, IL 61820-7999
+Tallahassee, FL 32306-4530
 <br />
-Phone: <a href="tel:+12173000910">217-300-0910</a>
-<br />
-Office: <a href="https://maps.app.goo.gl/xvHRWG27wSZXQ1Cv7">5125</a>
+Office: <a href="https://maps.app.goo.gl/oxcfNobRwx6igjF5A">405</a>
+
+
