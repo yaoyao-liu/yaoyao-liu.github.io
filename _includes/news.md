@@ -18,6 +18,7 @@
   
 
 <li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
+<!--
 <div id="newsmore">
   <li><strong>[Oct. 2023]</strong> I gave a talk on continual learning at <a href="https://bair.berkeley.edu/">BAIR, UC Berkeley</a>. </li>
   <li><strong>[Aug. 2023]</strong> I will give a talk at <a href="https://engineering.purdue.edu/ChanGroup/comp_imaging_seminar.html">Purdue Computational Imaging Seminar</a>.</li>
@@ -40,5 +41,6 @@
   <li><strong>[Sep. 2019]</strong> Our paper about <a href="https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf">few-shot learning</a> is accepted to <a href="https://nips.cc/Conferences/2019">NeurIPS 2019</a>.</li>
   <li><strong>[Mar. 2019]</strong> Our paper about <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf">few-shot learning</a> is accepted to <a href="http://cvpr2019.thecvf.com/">CVPR 2019</a>.</li>
 </div>
+-->
 
 </ul>
